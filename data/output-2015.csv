@@ -1,0 +1,1293 @@
+,formatted_address,latitude,longitude,accuracy,google_place_id,type,postcode,input_string,number_of_results,status
+0,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,New York City,1,OK
+1,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,Tokyo,1,OK
+2,,,,,,,,,0,REQUEST_DENIED
+3,,,,,,,,,0,REQUEST_DENIED
+4,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+5,"Suwon-si, Gyeonggi-do, South Korea",37.2635727,127.0286009,APPROXIMATE,ChIJEUZ2IApDezURybRd7gIwN_E,"locality,political",,"Suwon, South Korea",1,OK
+6,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,"ShangHai,China",1,OK
+7,,,,,,,,"Shanghai,China",0,REQUEST_DENIED
+8,Germany,51.165691,10.451526,APPROXIMATE,ChIJa76xwh5ymkcRW-WRjmtd6HU,"country,political",,Germany,1,OK
+9,,,,,,,,,0,REQUEST_DENIED
+10,"Paris, France",48.856614,2.3522219,APPROXIMATE,ChIJD7fiBh9u5kcRYJSMaMOCCwQ,"locality,political",,Paris,1,OK
+11,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+12,Antarctica,-82.862752,135,APPROXIMATE,ChIJ4Ql4Koj_nbARx8fIXTgKjbA,"continent,establishment,natural_feature",,Antarctica,1,OK
+13,"Montpellier, France",43.610769,3.876716,APPROXIMATE,ChIJsZ3dJQevthIRAuiUKHRWh60,"locality,political",,Montpellier,1,OK
+14,,,,,,,,"Berlin, Germany",0,REQUEST_DENIED
+15,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,"Berlin, Germany",1,OK
+16,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+17,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+18,"Shenzhen, Guangdong, China",22.543096,114.057865,APPROXIMATE,ChIJkVLh0Aj0AzQRyYCStw1V7v0,"locality,political",,"Shenzhen, China",1,OK
+19,,,,,,,,北京,0,REQUEST_DENIED
+20,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+21,"Hangzhou, Zhejiang, China",30.274084,120.15507,APPROXIMATE,ChIJmaqaQym2SzQROuhNgoPRv6c,"locality,political",,"HangZhou, China",1,OK
+22,Philippines,12.879721,121.774017,APPROXIMATE,ChIJY96HXyFTQDIRV9opeu-QR3g,"country,political",,Philippines,1,OK
+23,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,"Tokyo, Japan",1,OK
+24,United States,37.09024,-95.712891,APPROXIMATE,ChIJCzYy5IS16lQRQrfeQ5K5Oxw,"country,political",,United States,1,OK
+25,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+26,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+27,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,Seattle,1,OK
+28,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+29,"Kalamazoo, MI, USA",42.2917069,-85.5872286,APPROXIMATE,ChIJuZIxSXmdF4gRCTBXSdL4fNo,"locality,political",,"Kalamazoo, MI",1,OK
+30,"Toronto, ON, Canada",43.653226,-79.3831843,APPROXIMATE,ChIJpTvG15DL1IkRd8S0KlBVNTI,"locality,political",,"Toronto, Canada",1,OK
+31,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+32,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+33,Netherlands,52.132633,5.291266,APPROXIMATE,ChIJu-SH28MJxkcRnwq9_851obM,"country,political",,The Netherlands,1,OK
+34,"Munich, Germany",48.1351253,11.5819805,APPROXIMATE,ChIJ2V-Mo_l1nkcRfZixfUq4DAE,"locality,political",,"Munich, Germany",1,OK
+35,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+36,,,,,,,,Romania,0,REQUEST_DENIED
+37,"2020 6th Ave SE, Miami, OK 74354, USA",36.8668314,-94.8566678,ROOFTOP,ChIJg7zTHcMXyIcRNkT8q_ep3Sw,"establishment,point_of_interest",74354,Mars,1,OK
+38,"Ottawa, ON, Canada",45.4215296,-75.6971931,APPROXIMATE,ChIJrxNRX7IFzkwR7RXdMeFRaoo,"locality,political",,Ottawa Ontario,1,OK
+39,,,,,,,,Boulder,0,REQUEST_DENIED
+40,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,"Tokyo, Japan",1,OK
+41,"Joinville - State of Santa Catarina, Brazil",-26.2834213,-48.8452269,APPROXIMATE,ChIJN6uxnfOj3pQR-ulh8Z2YS7w,"administrative_area_level_2,political",,Joinville - SC,1,OK
+42,"Shenzhen, Guangdong, China",22.543096,114.057865,APPROXIMATE,ChIJkVLh0Aj0AzQRyYCStw1V7v0,"locality,political",,shenzhen,1,OK
+43,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+44,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+45,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,Berlin,1,OK
+46,"Amsterdam, Netherlands",52.3666969,4.8945398,APPROXIMATE,ChIJVXealLU_xkcRja_At0z9AGY,"locality,political",,"Amsterdam, The Netherlands",1,OK
+47,"San Francisco Bay Area, CA, USA",37.8271784,-122.2913078,APPROXIMATE,ChIJtdeIpqODhYARqR9GV4QbiYw,"colloquial_area,political",,San Francisco Bay Area,1,OK
+48,"Prague, Czechia",50.0755381,14.4378005,APPROXIMATE,ChIJi3lwCZyTC0cRkEAWZg-vAAQ,"locality,political",,"Prague, Czech Republic",1,OK
+49,"San Francisco Bay Area, CA, USA",37.8271784,-122.2913078,APPROXIMATE,ChIJtdeIpqODhYARqR9GV4QbiYw,"colloquial_area,political",,"Bay Area, CA",1,OK
+50,"Shenyang, Liaoning, China",41.805699,123.431472,APPROXIMATE,ChIJtzQTOkE8JV4RZpGSzvDkmVQ,"locality,political",,Shenyang China,1,OK
+51,"Cambridge, UK",52.205337,0.121817,APPROXIMATE,ChIJLQEq84ld2EcRIT1eo-Ego2M,"locality,political",,"Cambridge, UK",1,OK
+52,"Nashville, TN, USA",36.1626638,-86.7816016,APPROXIMATE,ChIJPZDrEzLsZIgRoNrpodC5P30,"locality,political",,"Nashville, TN",1,OK
+53,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,"New York, USA",1,OK
+54,,,,,,,,"Austin, TX",0,REQUEST_DENIED
+55,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+56,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,Berlin,1,OK
+57,"Shinjuku City, Tokyo, Japan",35.6938253,139.7033559,APPROXIMATE,ChIJS_23WSCNGGAR0u8y4o_GYew,"locality,political",,"Tokyo, Shinjuku",1,OK
+58,,,,,,,,Paris,0,REQUEST_DENIED
+59,"Cambridge, MA, USA",42.3736158,-71.1097335,APPROXIMATE,ChIJX8wwy6Vw44kRh2xoiWSOOsU,"locality,political",,"Cambridge, MA",1,OK
+60,,,,,,,,kumari kandam,0,ZERO_RESULTS
+61,"Wales, UK",52.1306607,-3.7837117,APPROXIMATE,ChIJ7Q8cbLY0ZEgRouilirxxux4,"administrative_area_level_1,political",,Wales Uk,1,OK
+62,"St. Petersburg, FL, USA",27.7676008,-82.6402915,APPROXIMATE,ChIJQao6aWPmwogR_4vUvANAzAQ,"locality,political",,"Saint Petersburg, FL, United States",1,OK
+63,"Chengdu, Sichuan, China",30.572815,104.066801,APPROXIMATE,ChIJIXdEACPF7zYRAg4kLs5Shrk,"locality,political",,"Chengdu, China",1,OK
+64,United States,37.09024,-95.712891,APPROXIMATE,ChIJCzYy5IS16lQRQrfeQ5K5Oxw,"country,political",,United States,1,OK
+65,"Boulder, CO, USA",40.0149856,-105.2705456,APPROXIMATE,ChIJ06-NJ06Na4cRWIAboHw7Ocg,"locality,political",,"Boulder, CO",1,OK
+66,,,,,,,,Bern,0,REQUEST_DENIED
+67,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,"Beijing, China",1,OK
+68,"Austin, TX, USA",30.267153,-97.7430608,APPROXIMATE,ChIJLwPMoJm1RIYRetVp1EtGm10,"locality,political",,"Austin, TX",1,OK
+69,,,,,,,,"Cary, NC",0,REQUEST_DENIED
+70,"2702 SE Otis Corley # 14, Bentonville, AR 72712, USA",36.3454856,-94.1936512,ROOFTOP,ChIJR_1iDYoQyYcRphlYHtC4oH4,"establishment,point_of_interest",72712,The Mars,1,OK
+71,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+72,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+73,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, United States",1,OK
+74,"Munich, Germany",48.1351253,11.5819805,APPROXIMATE,ChIJ2V-Mo_l1nkcRfZixfUq4DAE,"locality,political",,"Munich, Germany",1,OK
+75,"Bend, OR, USA",44.0581728,-121.3153096,APPROXIMATE,ChIJUdLTpf_AuFQRtNEgx6zniBA,"locality,political",,"Bend, OR",1,OK
+76,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+77,"Paris, France",48.856614,2.3522219,APPROXIMATE,ChIJD7fiBh9u5kcRYJSMaMOCCwQ,"locality,political",,"France, Paris",1,OK
+78,"Munich, Germany",48.1351253,11.5819805,APPROXIMATE,ChIJ2V-Mo_l1nkcRfZixfUq4DAE,"locality,political",,"Munich, Germany",1,OK
+79,"Boulder, CO, USA",40.0149856,-105.2705456,APPROXIMATE,ChIJ06-NJ06Na4cRWIAboHw7Ocg,"locality,political",,"Boulder, Colorado",1,OK
+80,China,35.86166,104.195397,APPROXIMATE,ChIJwULG5WSOUDERbzafNHyqHZU,"country,political",,China,1,OK
+81,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,Berlin,1,OK
+82,,,,,,,,127.0.0.1,0,ZERO_RESULTS
+83,,,,,,,,Shanghai,0,REQUEST_DENIED
+84,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,"Tokyo, Japan",1,OK
+85,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+86,,,,,,,,"New York, New York",0,REQUEST_DENIED
+87,"Osaka, Japan",34.6937249,135.5022535,APPROXIMATE,ChIJ4eIGNFXmAGAR5y9q5G7BW8U,"locality,political",,"Osaka, Japan",1,OK
+88,"Chennai, Tamil Nadu, India",13.0826802,80.2707184,APPROXIMATE,ChIJYTN9T-plUjoRM9RjaAunYW4,"locality,political",,"Chennai, India",1,OK
+89,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+90,,,,,,,,"Limassol, Cyprus",0,REQUEST_DENIED
+91,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+92,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+93,Romania,45.943161,24.96676,APPROXIMATE,ChIJw3aJlSb_sUARlLEEqJJP74Q,"country,political",,Romania,1,OK
+94,Brazil,-14.235004,-51.92528,APPROXIMATE,ChIJzyjM68dZnAARYz4p8gYVWik,"country,political",,Brazil,1,OK
+95,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+96,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+97,"Mountain View, CA, USA",37.3860517,-122.0838511,APPROXIMATE,ChIJiQHsW0m3j4ARm69rRkrUF3w,"locality,political",,"Mountain View, CA",1,OK
+98,"San Francisco Bay Area, CA, USA",37.8271784,-122.2913078,APPROXIMATE,ChIJtdeIpqODhYARqR9GV4QbiYw,"colloquial_area,political",,Bay Area,1,OK
+99,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,"London, UK",1,OK
+100,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,beijing,1,OK
+101,China,35.86166,104.195397,APPROXIMATE,ChIJwULG5WSOUDERbzafNHyqHZU,"country,political",,China,1,OK
+102,Austria,47.516231,14.550072,APPROXIMATE,ChIJfyqdJZsHbUcRr8Hk3XvUEhA,"country,political",,Austria,1,OK
+103,,,,,,,,,0,REQUEST_DENIED
+104,"Madrid, Spain",40.4167754,-3.7037902,APPROXIMATE,ChIJgTwKgJcpQg0RaSKMYcHeNsQ,"locality,political",,Madrid,1,OK
+105,"Kraków, Poland",50.0646501,19.9449799,APPROXIMATE,ChIJ0RhONcBEFkcRv4pHdrW2a7Q,"locality,political",30,"Krakow, Poland",1,OK
+106,"Wuhan, Hubei, China",30.592849,114.305539,APPROXIMATE,ChIJb_KF3fiuLjQRECJYbKzJwjk,"locality,political",,"China,WuHan",1,OK
+107,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+108,,,,,,,,"San Francisco, CA",0,REQUEST_DENIED
+109,"San Jose, CA, USA",37.3382082,-121.8863286,APPROXIMATE,ChIJ9T_5iuTKj4ARe3GfygqMnbk,"locality,political",,"San Jose, CA",1,OK
+110,"800 N 21st St, Independence, KS 67301, USA",37.2321077,-95.7243335,ROOFTOP,ChIJw2PZcE4ruIcReAzhIAFdBmY,"establishment,point_of_interest",67301,Earth,2,OK
+111,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+112,,,,,,,,NYC & NJ,0,REQUEST_DENIED
+113,"Sydney NSW, Australia",-33.8688197,151.2092955,APPROXIMATE,ChIJP3Sa8ziYEmsRUKgyFmh9AQM,"colloquial_area,locality,political",,"Sydney, Australia",1,OK
+114,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,Berlin,1,OK
+115,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+116,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+117,Poland,51.919438,19.145136,APPROXIMATE,ChIJuwtkpGSZAEcR6lXMScpzdQk,"country,political",,Poland,1,OK
+118,"Barcelona, Spain",41.3850639,2.1734035,APPROXIMATE,ChIJ5TCOcRaYpBIRCmZHTz37sEQ,"locality,political",,"Barcelona, Spain",1,OK
+119,"Buffalo, NY, USA",42.8864468,-78.8783689,APPROXIMATE,ChIJoeXfUmES04kRcYEfGKUEI5g,"locality,political",,"Buffalo, New York",1,OK
+120,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+121,,,,,,,,Maldives,0,REQUEST_DENIED
+122,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+123,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,"London, UK",1,OK
+124,,,,,,,,,0,REQUEST_DENIED
+125,,,,,,,,"San Francisco, CA",0,REQUEST_DENIED
+126,,,,,,,,San Francisco Bay Area,0,REQUEST_DENIED
+127,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,New York,1,OK
+128,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+129,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,"Shanghai, China",1,OK
+130,"Seoul, South Korea",37.566535,126.9779692,APPROXIMATE,ChIJzWXFYYuifDUR64Pq5LTtioU,"locality,political",,"Seoul, Korea",1,OK
+131,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+132,"Patras, Greece",38.2466395,21.734574,APPROXIMATE,ChIJLe0kpZk1XhMRoIy54iy9AAQ,"locality,political",,"Patras, Greece",1,OK
+133,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,Tokyo,1,OK
+134,China,35.86166,104.195397,APPROXIMATE,ChIJwULG5WSOUDERbzafNHyqHZU,"country,political",,China,1,OK
+135,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,London,1,OK
+136,"Los Angeles, CA, USA",34.0522342,-118.2436849,APPROXIMATE,ChIJE9on3F3HwoAR9AhGJW_fL-I,"locality,political",,"Los Angeles, CA",1,OK
+137,,,,,,,,,0,REQUEST_DENIED
+138,"Phoenix, AZ 85032, USA",33.6024029,-111.9818562,GEOMETRIC_CENTER,ChIJ_dmipLtzK4cR-5WMqAdMRf8,"clothing_store,establishment,point_of_interest,store",85032,Planet Earth,1,OK
+139,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,"Beijing, China",1,OK
+140,"San Juan, Puerto Rico",18.4655394,-66.1057355,APPROXIMATE,ChIJbxlo4m9oA4wR3FqTXA9_a60,"locality,political",,"San Juan, Puerto Rico",1,OK
+141,"Osaka, Japan",34.6937249,135.5022535,APPROXIMATE,ChIJ4eIGNFXmAGAR5y9q5G7BW8U,"locality,political",,"Osaka, Japan",1,OK
+142,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,Seattle,1,OK
+143,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+144,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+145,"Mexico City, CDMX, Mexico",19.4326077,-99.133208,APPROXIMATE,ChIJB3UJ2yYAzoURQeheJnYQBlQ,"locality,political",,Mexico City,1,OK
+146,,,,,,,,"Hamburg, Germany",0,REQUEST_DENIED
+147,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+148,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+149,,,,,,,,"Amsterdam, NL",0,REQUEST_DENIED
+150,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+151,"Hangzhou, Zhejiang, China",30.274084,120.15507,APPROXIMATE,ChIJmaqaQym2SzQROuhNgoPRv6c,"locality,political",,hangzhou,1,OK
+152,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco CA,1,OK
+153,"Nanjing, Jiangsu, China",32.060255,118.796877,APPROXIMATE,ChIJg82NZpuMtTURBhvfeQu2-48,"locality,political",,NanJing China,1,OK
+154,,,,,,,,,0,REQUEST_DENIED
+155,"Fairfax, VA, USA",38.8462236,-77.3063733,APPROXIMATE,ChIJzZFLOZZOtokRQIZEhecmIwc,"locality,political",,"Fairfax, VA",1,OK
+156,"Birmingham, UK",52.486243,-1.890401,APPROXIMATE,ChIJc3FBGy2UcEgRmHnurvD-gco,"locality,political",,"Birmingham, UK",1,OK
+157,Israel,31.046051,34.851612,APPROXIMATE,ChIJi8mnMiRJABURuiw1EyBCa2o,"country,political",,Israel,1,OK
+158,,,,,,,,,0,REQUEST_DENIED
+159,Netherlands,52.132633,5.291266,APPROXIMATE,ChIJu-SH28MJxkcRnwq9_851obM,"country,political",,The Netherlands,1,OK
+160,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+161,"Brooklyn, NY, USA",40.6781784,-73.9441579,APPROXIMATE,ChIJCSF8lBZEwokRhngABHRcdoI,"political,sublocality,sublocality_level_1",,brooklyn,1,OK
+162,"Atlanta, GA, USA",33.7489954,-84.3879824,APPROXIMATE,ChIJjQmTaV0E9YgRC2MLmS_e_mY,"locality,political",,"Atlanta, GA",1,OK
+163,"Shenzhen, Guangdong, China",22.543096,114.057865,APPROXIMATE,ChIJkVLh0Aj0AzQRyYCStw1V7v0,"locality,political",,"Shenzhen, China",1,OK
+164,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+165,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,Berlin,1,OK
+166,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+167,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+168,,,,,,,,"Izmir, Turkey",0,REQUEST_DENIED
+169,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,shanghai,1,OK
+170,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+171,"Ottawa, ON, Canada",45.4215296,-75.6971931,APPROXIMATE,ChIJrxNRX7IFzkwR7RXdMeFRaoo,"locality,political",,"Ottawa, On",1,OK
+172,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+173,"Sydney NSW, Australia",-33.8688197,151.2092955,APPROXIMATE,ChIJP3Sa8ziYEmsRUKgyFmh9AQM,"colloquial_area,locality,political",,"Sydney, Australia",1,OK
+174,"Bradford, UK",53.795984,-1.759398,APPROXIMATE,ChIJGRnC6XpfeUgRTxknMtjt4I8,"locality,political",,"Bradford, UK",1,OK
+175,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+176,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,Berlin,1,OK
+177,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+178,"Paris, France",48.856614,2.3522219,APPROXIMATE,ChIJD7fiBh9u5kcRYJSMaMOCCwQ,"locality,political",,"Paris, France",1,OK
+179,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+180,"Guangzhou, Guangdong, China",23.12911,113.264385,APPROXIMATE,ChIJxytco5X4AjQRFeTqrXXgWQ4,"locality,political",,"GuangZhou,China",1,OK
+181,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+182,,,,,,,,Bay Area,0,REQUEST_DENIED
+183,"Montreal, QC, Canada",45.5016889,-73.567256,APPROXIMATE,ChIJDbdkHFQayUwR7-8fITgxTmU,"locality,political",,"Montreal, Quebec",1,OK
+184,France,46.227638,2.213749,APPROXIMATE,ChIJMVd4MymgVA0R99lHx5Y__Ws,"country,political",,France,1,OK
+185,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,"Tokyo, Japan",1,OK
+186,France,46.227638,2.213749,APPROXIMATE,ChIJMVd4MymgVA0R99lHx5Y__Ws,"country,political",,France,1,OK
+187,"Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798,APPROXIMATE,ChIJEUtLGts1aDQRDDvTtbzcCdQ,"colloquial_area,locality,political",,"Hsinchu, Taiwan",1,OK
+188,"Belfast, UK",54.597285,-5.93012,APPROXIMATE,ChIJO4rQ1_3_YEgRMcXH7ywWVy4,"locality,political",,"Belfast, United Kingdom",1,OK
+189,"Bengaluru, Karnataka, India",12.9715987,77.5945627,APPROXIMATE,ChIJbU60yXAWrjsR4E9-UejD3_g,"locality,political",,"Bangalore, India",1,OK
+190,"Sydney NSW, Australia",-33.8688197,151.2092955,APPROXIMATE,ChIJP3Sa8ziYEmsRUKgyFmh9AQM,"colloquial_area,locality,political",,"Sydney, Australia",1,OK
+191,"Clayton, WA 99110, USA",47.9957261,-117.5593952,APPROXIMATE,ChIJszbBWoIAYlMRfBR5u4BNAZU,"locality,political",99110,"Clayton, Washington",1,OK
+192,,,,,,,,FLUS,0,ZERO_RESULTS
+193,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+194,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,Beijing,1,OK
+195,,,,,,,,"Tokyo, Japan",0,REQUEST_DENIED
+196,"Tempe, AZ, USA",33.4255104,-111.9400054,APPROXIMATE,ChIJ44CqppgIK4cRH7QsOa1K3aI,"locality,political",,"Tempe, AZ",1,OK
+197,"Zürich, Switzerland",47.3768866,8.541694,APPROXIMATE,ChIJGaK-SZcLkEcRA9wf5_GNbuY,"locality,political",,"Zürich, Switzerland",1,OK
+198,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,"Seattle, WA",1,OK
+199,,,,,,,,"Vitoria-Gasteiz, Spain",0,REQUEST_DENIED
+200,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, California",1,OK
+201,"Sydney NSW, Australia",-33.8688197,151.2092955,APPROXIMATE,ChIJP3Sa8ziYEmsRUKgyFmh9AQM,"colloquial_area,locality,political",,"Sydney, Australia",1,OK
+202,Israel,31.046051,34.851612,APPROXIMATE,ChIJi8mnMiRJABURuiw1EyBCa2o,"country,political",,Israel,1,OK
+203,"Hyderabad, Telangana, India",17.385044,78.486671,APPROXIMATE,ChIJx9Lr6tqZyzsRwvu6koO3k64,"locality,political",,"Hyderabad, India",1,OK
+204,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+205,"San Francisco Bay Area, CA, USA",37.8271784,-122.2913078,APPROXIMATE,ChIJtdeIpqODhYARqR9GV4QbiYw,"colloquial_area,political",,Bay Area,1,OK
+206,"Vancouver, BC, Canada",49.2827291,-123.1207375,APPROXIMATE,ChIJs0-pQ_FzhlQRi_OBm-qWkbs,"locality,political",,"Vancouver, BC",1,OK
+207,,,,,,,,"London, UK",0,REQUEST_DENIED
+208,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,ShangHai,1,OK
+209,"Athens, Greece",37.9838096,23.7275388,APPROXIMATE,ChIJ8UNwBh-9oRQR3Y1mdkU1Nic,"locality,political",,Greece - Athens,1,OK
+210,,,,,,,,California,0,REQUEST_DENIED
+211,"Montreal, QC, Canada",45.5016889,-73.567256,APPROXIMATE,ChIJDbdkHFQayUwR7-8fITgxTmU,"locality,political",,"Montreal, Quebec",1,OK
+212,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+213,"Portland, OR, USA",45.5051064,-122.6750261,APPROXIMATE,ChIJJ3SpfQsLlVQRkYXR9ua5Nhw,"locality,political",,"Portland, OR, USA",1,OK
+214,"Moscow, Russia",55.755826,37.6172999,APPROXIMATE,ChIJybDUc_xKtUYRTM9XV8zWRD0,"locality,political",,"Moscow, Russia",1,OK
+215,,,,,,,,Tal der Ahnungslosen,0,REQUEST_DENIED
+216,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,London,1,OK
+217,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,"Berlin, Germany",1,OK
+218,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+219,"Reminderville, OH, USA",41.3458879,-81.3951112,APPROXIMATE,ChIJycSopBAZMYgRFywHQZiW__8,"locality,political",,"Reminderville, OH",1,OK
+220,"Rennes, France",48.117266,-1.6777926,APPROXIMATE,ChIJhZDWpy_eDkgRMKvkNs2lDAQ,"locality,political",,Rennes,1,OK
+221,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+222,"84 Washington St, Hoboken, NJ 07030, USA",40.7368496,-74.0314527,ROOFTOP,ChIJSdyrtlhXwokR7M6-W8qCez0,"bar,establishment,point_of_interest",7030,none,1,OK
+223,,,,,,,,,0,REQUEST_DENIED
+224,"Vienna, Austria",48.2081743,16.3738189,APPROXIMATE,ChIJn8o2UZ4HbUcRRluiUYrlwv0,"locality,political",,"Vienna, Austria",1,OK
+225,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+226,Belgium,50.503887,4.469936,APPROXIMATE,ChIJl5fz7WR9wUcR8g_mObTy60c,"country,political",,Belgium,1,OK
+227,"Cartagena, Murcia, Spain",37.6256827,-0.9965839,APPROXIMATE,ChIJbbU6pCJCYw0R__n2_s6Q10c,"locality,political",,"Cartagena, Spain",1,OK
+228,,,,,,,,,0,REQUEST_DENIED
+229,"Patras, Greece",38.2466395,21.734574,APPROXIMATE,ChIJLe0kpZk1XhMRoIy54iy9AAQ,"locality,political",,"Patras, Greece",1,OK
+230,,,,,,,,"Los Angeles, CA",0,REQUEST_DENIED
+231,"Lund, Sweden",55.7046601,13.1910073,APPROXIMATE,ChIJO1rnA3yQU0YRcHoOKXiQAQQ,"locality,political",,"Lund, Sweden",1,OK
+232,"Paris, France",48.856614,2.3522219,APPROXIMATE,ChIJD7fiBh9u5kcRYJSMaMOCCwQ,"locality,political",,Paris,1,OK
+233,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+234,"Osaka, Japan",34.6937249,135.5022535,APPROXIMATE,ChIJ4eIGNFXmAGAR5y9q5G7BW8U,"locality,political",,"Osaka, Japan",1,OK
+235,"Munich, Germany",48.1351253,11.5819805,APPROXIMATE,ChIJ2V-Mo_l1nkcRfZixfUq4DAE,"locality,political",,"München, Germany",1,OK
+236,"Zürich, Switzerland",47.3768866,8.541694,APPROXIMATE,ChIJGaK-SZcLkEcRA9wf5_GNbuY,"locality,political",,"Zurich, Switzerland",1,OK
+237,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+238,,,,,,,,United Kingdom,0,REQUEST_DENIED
+239,,,,,,,,"Sunnyvale, California",0,REQUEST_DENIED
+240,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+241,"Colorado, USA",39.5500507,-105.7820674,APPROXIMATE,ChIJt1YYm3QUQIcR_6eQSTGDVMc,"administrative_area_level_1,political",,Colorado,1,OK
+242,,,,,,,,Joinville - SC,0,REQUEST_DENIED
+243,,,,,,,,United States,0,REQUEST_DENIED
+244,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+245,"Zagreb, Croatia",45.8150108,15.9819189,APPROXIMATE,ChIJOcwCyZLWZUcRisL7KJYkRTo,"locality,political",,"Zagreb, Croatia",1,OK
+246,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,"Tokyo, Japan",1,OK
+247,,,,,,,,,0,REQUEST_DENIED
+248,"Waterloo, ON, Canada",43.4642578,-80.5204096,APPROXIMATE,ChIJK2f-X1bxK4gRkB0jxyh7AwU,"locality,political",,"Waterloo, ON, Canada",1,OK
+249,,,,,,,,Virginia,0,REQUEST_DENIED
+250,"Strasbourg, France",48.5734053,7.7521113,APPROXIMATE,ChIJwbIYXknIlkcRHyTnGDFIGpc,"locality,political",,"Strasbourg, France",1,OK
+251,,,,,,,,Berlin,0,REQUEST_DENIED
+252,,,,,,,,"Bangalore, India",0,REQUEST_DENIED
+253,,,,,,,,,0,REQUEST_DENIED
+254,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+255,,,,,,,,Dublin,0,REQUEST_DENIED
+256,"Buenos Aires, Argentina",-34.6036844,-58.3815591,APPROXIMATE,ChIJvQz5TjvKvJURh47oiC6Bs6A,"locality,political",,"Buenos Aires, Argentina",1,OK
+257,"Barcelona, Spain",41.3850639,2.1734035,APPROXIMATE,ChIJ5TCOcRaYpBIRCmZHTz37sEQ,"locality,political",,Barcelona,1,OK
+258,,,,,,,,,0,REQUEST_DENIED
+259,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+260,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,Seattle,1,OK
+261,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+262,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+263,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+264,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+265,"Birmingham, UK",52.486243,-1.890401,APPROXIMATE,ChIJc3FBGy2UcEgRmHnurvD-gco,"locality,political",,"Birmingham, U.K",1,OK
+266,,,,,,,,JiNan,0,REQUEST_DENIED
+267,,,,,,,,"神栖６６町, 日本",0,REQUEST_DENIED
+268,"Cary, NC, USA",35.79154,-78.7811169,APPROXIMATE,ChIJQ4tK_1S9rIkR4UtEWtuPVkQ,"locality,political",,"Cary, NC",1,OK
+269,,,,,,,,Santiago,0,REQUEST_DENIED
+270,,,,,,,,"Berlin, Germany",0,REQUEST_DENIED
+271,,,,,,,,Tokyo,0,REQUEST_DENIED
+272,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,Berlin,1,OK
+273,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+274,"Ottawa, ON, Canada",45.4215296,-75.6971931,APPROXIMATE,ChIJrxNRX7IFzkwR7RXdMeFRaoo,"locality,political",,"Ottawa, Ontario, Canada",1,OK
+275,,,,,,,,Poland,0,REQUEST_DENIED
+276,,,,,,,,,0,REQUEST_DENIED
+277,"Hangzhou, Zhejiang, China",30.274084,120.15507,APPROXIMATE,ChIJmaqaQym2SzQROuhNgoPRv6c,"locality,political",,HangZhou China,1,OK
+278,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+279,"Nanjing, Jiangsu, China",32.060255,118.796877,APPROXIMATE,ChIJg82NZpuMtTURBhvfeQu2-48,"locality,political",,Nanjing,1,OK
+280,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,"Seattle, WA",1,OK
+281,,,,,,,,China,0,REQUEST_DENIED
+282,"Auckland, New Zealand",-36.8484597,174.7633315,APPROXIMATE,ChIJ--acWvtHDW0RF5miQ2HvAAU,"locality,political",,Auckland,1,OK
+283,"Hangzhou, Zhejiang, China",30.274084,120.15507,APPROXIMATE,ChIJmaqaQym2SzQROuhNgoPRv6c,"locality,political",,"Hangzhou,China",1,OK
+284,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,"Seattle, WA",1,OK
+285,"New Hampshire, USA",43.1938516,-71.5723953,APPROXIMATE,ChIJ66bAnUtEs0wR64CmJa8CyNc,"administrative_area_level_1,political",,New Hampshire,1,OK
+286,"Bengaluru, Karnataka, India",12.9715987,77.5945627,APPROXIMATE,ChIJbU60yXAWrjsR4E9-UejD3_g,"locality,political",,Bangalore,1,OK
+287,"Warsaw, Poland",52.2296756,21.0122287,APPROXIMATE,ChIJAZ-GmmbMHkcR_NPqiCq-8HI,"locality,political",3,"Warsaw, Poland",1,OK
+288,,,,,,,,Montreal Canada,0,REQUEST_DENIED
+289,,,,,,,,,0,REQUEST_DENIED
+290,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,"Seattle, WA",1,OK
+291,Poland,51.919438,19.145136,APPROXIMATE,ChIJuwtkpGSZAEcR6lXMScpzdQk,"country,political",,Poland,1,OK
+292,"Shenzhen, Guangdong, China",22.543096,114.057865,APPROXIMATE,ChIJkVLh0Aj0AzQRyYCStw1V7v0,"locality,political",," Shenzhen,China",1,OK
+293,,,,,,,,"Sheffield, United Kingdom",0,REQUEST_DENIED
+294,,,,,,,,"Plattsburgh, NY",0,REQUEST_DENIED
+295,Norway,60.472024,8.468946,APPROXIMATE,ChIJv-VNj0VoEkYRK9BkuJ07sKE,"country,political",,Norway,1,OK
+296,"Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798,APPROXIMATE,ChIJEUtLGts1aDQRDDvTtbzcCdQ,"colloquial_area,locality,political",,"Hsinchu, Taiwan",1,OK
+297,"Rotterdam, Netherlands",51.9244201,4.4777326,APPROXIMATE,ChIJfcRUX2C3xUcRhUtelay7KVI,"locality,political",,"Rotterdam, Netherlands",1,OK
+298,"Pittsburgh, PA, USA",40.4406248,-79.9958864,APPROXIMATE,ChIJA4UGSG_xNIgRNBuiWqEV-Y0,"locality,political",,Pittsburgh,1,OK
+299,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,Berlin,1,OK
+300,"Devon, UK",50.7155591,-3.530875,APPROXIMATE,ChIJRwLA2qv4a0gR_Vicygy6xhI,"administrative_area_level_2,political",,"Devon, UK",1,OK
+301,Israel,31.046051,34.851612,APPROXIMATE,ChIJi8mnMiRJABURuiw1EyBCa2o,"country,political",,Israel,1,OK
+302,"Joinville - State of Santa Catarina, Brazil",-26.2834213,-48.8452269,APPROXIMATE,ChIJN6uxnfOj3pQR-ulh8Z2YS7w,"administrative_area_level_2,political",,Joinville - Brazil,1,OK
+303,"São Paulo, State of São Paulo, Brazil",-23.5505199,-46.6333094,APPROXIMATE,ChIJ0WGkg4FEzpQRrlsz_whLqZs,"locality,political",,"São Paulo, Brazil",1,OK
+304,Lithuania,55.169438,23.881275,APPROXIMATE,ChIJE74zDxSU3UYRubpdpdNUCvM,"country,political",,Lithuania,1,OK
+305,,,,,,,,,0,REQUEST_DENIED
+306,,,,,,,,,0,REQUEST_DENIED
+307,Abu Dhabi - United Arab Emirates,24.453884,54.3773438,APPROXIMATE,ChIJufI-cg9EXj4RCBGXQZMuzMc,"locality,political",,Abu Dhabi,1,OK
+308,"Zhejiang, China",29.1416432,119.7889248,APPROXIMATE,ChIJv8wKpTQSSTQRt3wYNsVx74E,"administrative_area_level_1,political",,zhejiang,1,OK
+309,"Cardiff, UK",51.481581,-3.17909,APPROXIMATE,ChIJ9VPsNNQCbkgRDmeGZdsGNBQ,"locality,political",,Cardiff,1,OK
+310,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+311,"Edinburgh, UK",55.953252,-3.188267,APPROXIMATE,ChIJIyaYpQC4h0gRJxfnfHsU8mQ,"locality,political",,"Edinburgh, United Kingdom",1,OK
+312,,,,,,,,"Cape Town, South Africa",0,REQUEST_DENIED
+313,"Tempe, AZ, USA",33.4255104,-111.9400054,APPROXIMATE,ChIJ44CqppgIK4cRH7QsOa1K3aI,"locality,political",,"Tempe, AZ",1,OK
+314,"Dongguan, Guangdong, China",23.020673,113.751799,APPROXIMATE,ChIJ5ROI3ZQKAzQRQ3q8DjAgg3Y,"locality,political",,"Dongguan, Guangdong, China",1,OK
+315,"Minneapolis, MN, USA",44.977753,-93.2650108,APPROXIMATE,ChIJvbt3k5Azs1IRB-56L4TJn5M,"locality,political",,"Minneapolis, Minnesota ",1,OK
+316,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,Shanghai,1,OK
+317,"Moscow, Russia",55.755826,37.6172999,APPROXIMATE,ChIJybDUc_xKtUYRTM9XV8zWRD0,"locality,political",,"Moscow, Russia",1,OK
+318,"Riga, Latvia",56.9496487,24.1051865,APPROXIMATE,ChIJ7T0H5bDP7kYRMP7yaM3PAAQ,"locality,political",,"Riga, Latvia",1,OK
+319,"Buffalo, NY, USA",42.8864468,-78.8783689,APPROXIMATE,ChIJoeXfUmES04kRcYEfGKUEI5g,"locality,political",,"Buffalo, NY",1,OK
+320,,,,,,,,Seattle,0,REQUEST_DENIED
+321,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+322,"Barcelona, Spain",41.3850639,2.1734035,APPROXIMATE,ChIJ5TCOcRaYpBIRCmZHTz37sEQ,"locality,political",,"Barcelona, Spain",1,OK
+323,"Malang, Malang City, East Java, Indonesia",-7.9666204,112.6326321,APPROXIMATE,ChIJ-8I9BiIo1i0Rok0aSEaUh3g,"locality,political",,"Malang, Indonesia",1,OK
+324,United States,37.09024,-95.712891,APPROXIMATE,ChIJCzYy5IS16lQRQrfeQ5K5Oxw,"country,political",,United States,1,OK
+325,"Massapequa, NY, USA",40.6806563,-73.4742914,APPROXIMATE,ChIJbwHZb2R_wokRDjeBqPaBrMk,"locality,political",,"Massapequa, NY",1,OK
+326,"Hangzhou, Zhejiang, China",30.274084,120.15507,APPROXIMATE,ChIJmaqaQym2SzQROuhNgoPRv6c,"locality,political",,"HangZhou, China",1,OK
+327,,,,,,,,Cambridge UK,0,REQUEST_DENIED
+328,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+329,Netherlands,52.132633,5.291266,APPROXIMATE,ChIJu-SH28MJxkcRnwq9_851obM,"country,political",,Netherlands,1,OK
+330,"Santa Barbara, CA, USA",34.4208305,-119.6981901,APPROXIMATE,ChIJ1YMtb8cU6YARSHa612Q60cg,"locality,political",,Santa Barbara,1,OK
+331,"Brooklyn, NY, USA",40.6781784,-73.9441579,APPROXIMATE,ChIJCSF8lBZEwokRhngABHRcdoI,"political,sublocality,sublocality_level_1",,"Brooklyn, NY",1,OK
+332,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+333,,,,,,,,Moscow,0,REQUEST_DENIED
+334,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,"New York, NY",1,OK
+335,,,,,,,,Amsterdam,0,REQUEST_DENIED
+336,"Toronto, ON, Canada",43.653226,-79.3831843,APPROXIMATE,ChIJpTvG15DL1IkRd8S0KlBVNTI,"locality,political",,toronto,1,OK
+337,"Fort Collins, CO, USA",40.5852602,-105.084423,APPROXIMATE,ChIJrTDwkEVKaYcRgkCrtChCsak,"locality,political",,"Fort Collins, CO",1,OK
+338,,,,,,,,,0,REQUEST_DENIED
+339,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+340,"Osaka, Japan",34.6937249,135.5022535,APPROXIMATE,ChIJ4eIGNFXmAGAR5y9q5G7BW8U,"locality,political",,"Osaka, Japan",1,OK
+341,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+342,Sweden,60.128161,18.643501,APPROXIMATE,ChIJ8fA1bTmyXEYRYm-tjaLruCI,"country,political",,Sweden,1,OK
+343,"Heidelberg, Germany",49.3987524,8.6724335,APPROXIMATE,ChIJzdzMDgXBl0cR1zokRADq5u8,"locality,political",,"Heidelberg, Germany",1,OK
+344,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,"Seattle, WA",1,OK
+345,,,,,,,,"New York, NY",0,REQUEST_DENIED
+346,,,,,,,,,0,REQUEST_DENIED
+347,Dubai - United Arab Emirates,25.2048493,55.2707828,APPROXIMATE,ChIJRcbZaklDXz4RYlEphFBu5r0,"locality,political",,"Dubai, UAE",1,OK
+348,"Highland Charter Twp, MI, USA",42.6380014,-83.6175677,APPROXIMATE,ChIJa6rc5ZhfI4gRh5UAR380DRU,"locality,political",,"Highland, Michigan, USA",1,OK
+349,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,"Beijing, China",1,OK
+350,United States,37.09024,-95.712891,APPROXIMATE,ChIJCzYy5IS16lQRQrfeQ5K5Oxw,"country,political",,USA,1,OK
+351,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,"Tokyo, Japan",1,OK
+352,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,"Tokyo, Japan",1,OK
+353,"43362 Siurana, Tarragona, Spain",41.2581135,0.9323578,APPROXIMATE,ChIJ595IjMJKoRIRo18yciJOMbQ,"locality,political",43362,Siurana,1,OK
+354,,,,,,,,"Manchester, United Kingdom",0,REQUEST_DENIED
+355,"Portland, OR, USA",45.5051064,-122.6750261,APPROXIMATE,ChIJJ3SpfQsLlVQRkYXR9ua5Nhw,"locality,political",,"Portland, OR",1,OK
+356,"Brasilia - Federal District, Brazil",-15.826691,-47.9218204,APPROXIMATE,ChIJo5Fb5Bg9WpMRf13YC2LT6CQ,"administrative_area_level_2,political",,Brasília - DF / Brazil,1,OK
+357,,,,,,,,,0,REQUEST_DENIED
+358,"Linz, Austria",48.30694,14.28583,APPROXIMATE,ChIJTYWZ-pWVc0cRxHV5VywpU3w,"locality,political",,Linz,1,OK
+359,"Hangzhou, Zhejiang, China",30.274084,120.15507,APPROXIMATE,ChIJmaqaQym2SzQROuhNgoPRv6c,"locality,political",,"Hangzhou, China",1,OK
+360,,,,,,,,,0,REQUEST_DENIED
+361,"Munich, Germany",48.1351253,11.5819805,APPROXIMATE,ChIJ2V-Mo_l1nkcRfZixfUq4DAE,"locality,political",,"Munich, Germany",1,OK
+362,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,"London, UK",1,OK
+363,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,"Seattle, WA",1,OK
+364,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+365,"Oklahoma City, OK, USA",35.4675602,-97.5164276,APPROXIMATE,ChIJgdL4flSKrYcRnTpP0XQSojM,"locality,political",,"Oklahoma City, Oklahoma USA",1,OK
+366,,,,,,,,"San Francisco, CA",0,REQUEST_DENIED
+367,,,,,,,,"Stockholm, Sweden",0,REQUEST_DENIED
+368,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+369,"Dublin, Ireland",53.3498053,-6.2603097,APPROXIMATE,ChIJL6wn6oAOZ0gRoHExl6nHAAo,"locality,political",,"Dublin, Ireland",1,OK
+370,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+371,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+372,,,,,,,,"Sydney, Australia",0,REQUEST_DENIED
+373,,,,,,,,Zurich,0,REQUEST_DENIED
+374,,,,,,,,e.zl@qq.com,0,ZERO_RESULTS
+375,,,,,,,,"Tokyo, Japan",0,REQUEST_DENIED
+376,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,beijing,1,OK
+377,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+378,,,,,,,,,0,REQUEST_DENIED
+379,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+380,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+381,,,,,,,,NYC,0,REQUEST_DENIED
+382,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+383,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+384,,,,,,,,"Boulder, Colorado",0,REQUEST_DENIED
+385,,,,,,,,Hanging out on cliffs,0,ZERO_RESULTS
+386,"Minneapolis, MN, USA",44.977753,-93.2650108,APPROXIMATE,ChIJvbt3k5Azs1IRB-56L4TJn5M,"locality,political",,"Minneapolis, MN",1,OK
+387,"Tallinn, Estonia",59.4369608,24.7535747,APPROXIMATE,ChIJvxZW35mUkkYRcGL8GG2zAAQ,"locality,political",,Tallinn,1,OK
+388,"Brasilia - Federal District, Brazil",-15.826691,-47.9218204,APPROXIMATE,ChIJo5Fb5Bg9WpMRf13YC2LT6CQ,"administrative_area_level_2,political",,Brasília - Brasil,1,OK
+389,,,,,,,,Singapore,0,REQUEST_DENIED
+390,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+391,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+392,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,New York City,1,OK
+393,"Bishkek, Kyrgyzstan",42.8746212,74.5697617,APPROXIMATE,ChIJgcizkdy3njgRfeLefPW6Lkk,"locality,political",,"Kyrgyzstan, Bishkek",1,OK
+394,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+395,,,,,,,,,0,REQUEST_DENIED
+396,,,,,,,,Vilnius,0,REQUEST_DENIED
+397,,,,,,,,"Swindon, United Kingdom",0,REQUEST_DENIED
+398,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+399,,,,,,,,"San Francisco, CA",0,REQUEST_DENIED
+400,,,,,,,,"San Francisco, CA",0,REQUEST_DENIED
+401,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+402,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,"Shanghai, China",1,OK
+403,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+404,"Annecy, France",45.899247,6.129384,APPROXIMATE,ChIJyVEFHPqPi0cRujQFYoEWeEI,"political,sublocality,sublocality_level_1",,Annecy - France,1,OK
+405,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+406,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+407,,,,,,,,"Ghent, Belgium",0,REQUEST_DENIED
+408,,,,,,,,"Portland, OR",0,REQUEST_DENIED
+409,,,,,,,,"California, USA",0,REQUEST_DENIED
+410,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+411,"Lagos, Nigeria",6.5243793,3.3792057,APPROXIMATE,ChIJwYCC5iqLOxARy9nDZ6OHntw,"locality,political",,"Lagos, Nigeria",1,OK
+412,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+413,,,,,,,,London,0,REQUEST_DENIED
+414,,,,,,,,"Dublin, Ireland",0,REQUEST_DENIED
+415,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,"Tokyo, Japan",1,OK
+416,"Bengaluru, Karnataka, India",12.9715987,77.5945627,APPROXIMATE,ChIJbU60yXAWrjsR4E9-UejD3_g,"locality,political",,Bengaluru,1,OK
+417,,,,,,,,PID 1,0,ZERO_RESULTS
+418,Switzerland,46.818188,8.227512,APPROXIMATE,ChIJYW1Zb-9kjEcRFXvLDxG1Vlw,"country,political",,Switzerland,1,OK
+419,"Moscow, Russia",55.755826,37.6172999,APPROXIMATE,ChIJybDUc_xKtUYRTM9XV8zWRD0,"locality,political",,"Russia, Moscow",1,OK
+420,,,,,,,,"Sunnyvale, CA",0,REQUEST_DENIED
+421,"Zwolle, Netherlands",52.5167747,6.0830219,APPROXIMATE,ChIJsewSnSDfx0cRjD7dkiRbC80,"locality,political",,"Zwolle, The Netherlands",1,OK
+422,,,,,,,,"Boston, MA, USA",0,REQUEST_DENIED
+423,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+424,,,,,,,,,0,REQUEST_DENIED
+425,"Tulsa, OK 74134, USA",36.0913803,-95.8292594,GEOMETRIC_CENTER,ChIJBfm-k5GMtocR53ZyHSFP2Tw,"establishment,point_of_interest",74134,::1,1,OK
+426,"Zürich, Switzerland",47.3768866,8.541694,APPROXIMATE,ChIJGaK-SZcLkEcRA9wf5_GNbuY,"locality,political",,"Zürich, Switzerland",1,OK
+427,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+428,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,Seattle,1,OK
+429,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,"New York, NY",1,OK
+430,"Halifax Regional Municipality, NS, Canada",44.6487635,-63.5752387,APPROXIMATE,ChIJxesm0LsTRUsRW2dKWg1nkM0,"administrative_area_level_2,political",,"Halifax, NS",1,OK
+431,,,,,,,,"New York, NY",0,REQUEST_DENIED
+432,,,,,,,,Australia,0,REQUEST_DENIED
+433,,,,,,,,Bangalore,0,REQUEST_DENIED
+434,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,Beijing,1,OK
+435,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,London,1,OK
+436,"Naha, Okinawa, Japan",26.2125758,127.6790208,APPROXIMATE,ChIJi7WmQXFp5TQRmF5YFvav2Cw,"locality,political",,"Naha City, Okinawa, Japan",1,OK
+437,,,,,,,,Agartala | New Delhi,0,REQUEST_DENIED
+438,Switzerland,46.818188,8.227512,APPROXIMATE,ChIJYW1Zb-9kjEcRFXvLDxG1Vlw,"country,political",,Switzerland,1,OK
+439,"Toronto, ON, Canada",43.653226,-79.3831843,APPROXIMATE,ChIJpTvG15DL1IkRd8S0KlBVNTI,"locality,political",,"Toronto, Canada",1,OK
+440,,,,,,,,"Beijing, China",0,REQUEST_DENIED
+441,"Reigate, UK",51.237276,-0.205883,APPROXIMATE,ChIJt98Np1HjdUgRdnIedJELMF8,"locality,political",,Reigate Surrey UK,1,OK
+442,Ukraine,48.379433,31.1655799,APPROXIMATE,ChIJjw5wVMHZ0UAREED2iIQGAQA,"country,political",,Ukraine,1,OK
+443,"Chengdu, Sichuan, China",30.572815,104.066801,APPROXIMATE,ChIJIXdEACPF7zYRAg4kLs5Shrk,"locality,political",,"Chengdu  Sichuan, China",1,OK
+444,,,,,,,,,0,REQUEST_DENIED
+445,United States,37.09024,-95.712891,APPROXIMATE,ChIJCzYy5IS16lQRQrfeQ5K5Oxw,"country,political",,United States,1,OK
+446,,,,,,,,Oregon,0,REQUEST_DENIED
+447,,,,,,,,,0,REQUEST_DENIED
+448,,,,,,,,,0,REQUEST_DENIED
+449,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+450,"Dunedin, New Zealand",-45.8787605,170.5027976,APPROXIMATE,ChIJPVFfD-DkK6gRQZl5hIbvAAU,"locality,political",,"Dunedin, New Zealand",1,OK
+451,"Phoenix, AZ 85032, USA",33.6024029,-111.9818562,GEOMETRIC_CENTER,ChIJ_dmipLtzK4cR-5WMqAdMRf8,"clothing_store,establishment,point_of_interest,store",85032,Planet Earth,1,OK
+452,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,"Berlin, Germany",1,OK
+453,"3rd Floor Azabu Maruka Bldg., 3-8-2 Higashiazabu, ３丁目-８ 東麻布 Minato, Tokyo 106-0044, Japan",35.656613,139.73742,GEOMETRIC_CENTER,ChIJLV7frZiLGGARZBfEl5djS44,"establishment,point_of_interest",106-0044,"Tokyo, JAPAN and the Internet",1,OK
+454,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+455,,,,,,,,,0,REQUEST_DENIED
+456,,,,,,,,,0,REQUEST_DENIED
+457,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+458,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+459,"Alamo, CA, USA",37.8502032,-122.032184,APPROXIMATE,ChIJ83S0PC2Lj4ARoDyC4N90BAc,"locality,political",,"Alamo, CA",1,OK
+460,"California, USA",36.778261,-119.4179324,APPROXIMATE,ChIJPV4oX_65j4ARVW8IJ6IJUYs,"administrative_area_level_1,political",,"California, USA",1,OK
+461,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,"London, UK",1,OK
+462,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+463,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,"Berlin, Germany",1,OK
+464,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,Berlin,1,OK
+465,"Lisbon, Portugal",38.7222524,-9.1393366,APPROXIMATE,ChIJO_PkYRozGQ0R0DaQ5L3rAAQ,"locality,political",,"Lisbon, Portugal",1,OK
+466,"California, USA",36.778261,-119.4179324,APPROXIMATE,ChIJPV4oX_65j4ARVW8IJ6IJUYs,"administrative_area_level_1,political",,California,1,OK
+467,"2175 K St NW, Washington, DC 20037, USA",38.9029612,-77.0486233,ROOFTOP,ChIJ8-Ch07a3t4kRsVNl_r59QVI,"embassy,establishment,point_of_interest",20037,EU,2,OK
+468,"Omsk, Omsk Oblast, Russia",54.9884804,73.3242361,APPROXIMATE,ChIJCwkB9uL9qkMRGpumYTjD714,"locality,political",,"Russia, Omsk",1,OK
+469,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+470,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",," Tokyo, Japan",1,OK
+471,,,,,,,,"Munich, Germany",0,REQUEST_DENIED
+472,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+473,,,,,,,,Shanghai China,0,REQUEST_DENIED
+474,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+475,France,46.227638,2.213749,APPROXIMATE,ChIJMVd4MymgVA0R99lHx5Y__Ws,"country,political",,France,1,OK
+476,Argentina,-38.416097,-63.616672,APPROXIMATE,ChIJZ8b99fXKvJURqA_wKpl3Lz0,"country,political",,Argentina,1,OK
+477,"Warsaw, Poland",52.2296756,21.0122287,APPROXIMATE,ChIJAZ-GmmbMHkcR_NPqiCq-8HI,"locality,political",3,"Warsaw, Poland",1,OK
+478,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,"Seattle, WA",1,OK
+479,,,,,,,,,0,REQUEST_DENIED
+480,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+481,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,"New York, NY",1,OK
+482,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,"New York, NY",1,OK
+483,"Chicago, IL, USA",41.8781136,-87.6297982,APPROXIMATE,ChIJ7cv00DwsDogRAMDACa2m4K8,"locality,political",,"Chicago, IL",1,OK
+484,"Warsaw, Poland",52.2296756,21.0122287,APPROXIMATE,ChIJAZ-GmmbMHkcR_NPqiCq-8HI,"locality,political",3,"Poland, Warsaw",1,OK
+485,"Toronto, ON, Canada",43.653226,-79.3831843,APPROXIMATE,ChIJpTvG15DL1IkRd8S0KlBVNTI,"locality,political",,"Toronto, Ontario, Canada",1,OK
+486,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,"Berlin, Germany",1,OK
+487,,,,,,,,"Munich, Germany",0,REQUEST_DENIED
+488,"Auckland, New Zealand",-36.8484597,174.7633315,APPROXIMATE,ChIJ--acWvtHDW0RF5miQ2HvAAU,"locality,political",,"Auckland, New Zealand",1,OK
+489,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,Shanghai,1,OK
+490,"8330 Riverside Pkwy, Tulsa, OK 74137, USA",36.0404924,-95.9618958,ROOFTOP,ChIJx65-A-iTtocRfPeH5N5RwhQ,"bar,establishment,point_of_interest",74137,Somewhere,1,OK
+491,,,,,,,,,0,REQUEST_DENIED
+492,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+493,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,Tokyo,1,OK
+494,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+495,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,"Beijing, China",1,OK
+496,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,"Tokyo, Japan",1,OK
+497,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",," Tokyo, Japan",1,OK
+498,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+499,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+500,,,,,,,,California,0,REQUEST_DENIED
+501,"Portland, OR, USA",45.5051064,-122.6750261,APPROXIMATE,ChIJJ3SpfQsLlVQRkYXR9ua5Nhw,"locality,political",,"Portland, OR",1,OK
+502,"Menlo Park, CA, USA",37.4529598,-122.1817252,APPROXIMATE,ChIJ_4ByEbGmj4ARq4nyXY6Zv-s,"locality,political",,"Menlo Park, CA",1,OK
+503,,,,,,,,Japan,0,REQUEST_DENIED
+504,,,,,,,,"Copenhagen, Denmark",0,REQUEST_DENIED
+505,Japan,36.204824,138.252924,APPROXIMATE,ChIJLxl_1w9OZzQRRFJmfNR1QvU,"country,political",,Japan,1,OK
+506,,,,,,,,,0,REQUEST_DENIED
+507,,,,,,,,"San Jose, CA",0,REQUEST_DENIED
+508,Ukraine,48.379433,31.1655799,APPROXIMATE,ChIJjw5wVMHZ0UAREED2iIQGAQA,"country,political",,Ukraine,1,OK
+509,,,,,,,,NYC,0,REQUEST_DENIED
+510,,,,,,,,"Amsterdam, Netherlands",0,REQUEST_DENIED
+511,"Pittsburgh, PA, USA",40.4406248,-79.9958864,APPROXIMATE,ChIJA4UGSG_xNIgRNBuiWqEV-Y0,"locality,political",,"Pittsburgh, PA",1,OK
+512,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+513,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+514,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,Berlin,1,OK
+515,"Portland, OR, USA",45.5051064,-122.6750261,APPROXIMATE,ChIJJ3SpfQsLlVQRkYXR9ua5Nhw,"locality,political",,"Portland, OR",1,OK
+516,"Cary, NC, USA",35.79154,-78.7811169,APPROXIMATE,ChIJQ4tK_1S9rIkR4UtEWtuPVkQ,"locality,political",,"Cary, NC",1,OK
+517,,,,,,,,Beijing,0,REQUEST_DENIED
+518,Canada,56.130366,-106.346771,APPROXIMATE,ChIJ2WrMN9MDDUsRpY9Doiq3aJk,"country,political",,Canada,1,OK
+519,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+520,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+521,"Stockton, CA, USA",37.9577016,-121.2907796,APPROXIMATE,ChIJgSFEe3MNkIAR2MtPBNH1dlg,"locality,political",,"Stockton, CA",1,OK
+522,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+523,,,,,,,,"Beijing, China",0,REQUEST_DENIED
+524,"Boulder, CO, USA",40.0149856,-105.2705456,APPROXIMATE,ChIJ06-NJ06Na4cRWIAboHw7Ocg,"locality,political",,"Boulder, CO",1,OK
+525,,,,,,,,☕,0,REQUEST_DENIED
+526,,,,,,,,Paris,0,REQUEST_DENIED
+527,,,,,,,,china,0,REQUEST_DENIED
+528,,,,,,,,,0,REQUEST_DENIED
+529,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+530,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+531,"Chiang Mai, Mueang Chiang Mai District, Chiang Mai, Thailand",18.7952876,98.9620002,APPROXIMATE,ChIJXW-7kH462jARZ0ObpXBi1Jg,"locality,political",,"Chiang Mai, Thailand",1,OK
+532,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+533,,,,,,,,"Toulouse, France",0,REQUEST_DENIED
+534,,,,,,,,"New York, NY",0,REQUEST_DENIED
+535,"Hamburg, Germany",53.5510846,9.9936819,APPROXIMATE,ChIJuRMYfoNhsUcRoDrWe_I9JgQ,"locality,political",,"Hamburg, Germany",1,OK
+536,"Paris, France",48.856614,2.3522219,APPROXIMATE,ChIJD7fiBh9u5kcRYJSMaMOCCwQ,"locality,political",,Paris,1,OK
+537,Europe,54.5259614,15.2551187,APPROXIMATE,ChIJhdqtz4aI7UYRefD8s-aZ73I,"continent,establishment,natural_feature",,Europe,1,OK
+538,,,,,,,,"San Francisco, CA",0,REQUEST_DENIED
+539,,,,,,,,London,0,REQUEST_DENIED
+540,France,46.227638,2.213749,APPROXIMATE,ChIJMVd4MymgVA0R99lHx5Y__Ws,"country,political",,France,1,OK
+541,"Miami, FL, USA",25.7616798,-80.1917902,APPROXIMATE,ChIJEcHIDqKw2YgRZU-t3XHylv8,"locality,political",,"Miami, FL",1,OK
+542,"Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798,APPROXIMATE,ChIJEUtLGts1aDQRDDvTtbzcCdQ,"colloquial_area,locality,political",,"Hsinchu, Taiwan",1,OK
+543,"Atlanta, GA, USA",33.7489954,-84.3879824,APPROXIMATE,ChIJjQmTaV0E9YgRC2MLmS_e_mY,"locality,political",,"Atlanta, GA",1,OK
+544,"Rennes, France",48.117266,-1.6777926,APPROXIMATE,ChIJhZDWpy_eDkgRMKvkNs2lDAQ,"locality,political",,Rennes,1,OK
+545,,,,,,,,"San Francisco, USA",0,REQUEST_DENIED
+546,"7860 Glades Rd, Boca Raton, FL 33434, USA",26.366579,-80.16708,ROOFTOP,ChIJ_-_-M6Ee2YgR11gtjhAD5DU,"establishment,food,point_of_interest,restaurant",33434,Shanghai city,1,OK
+547,"Half Moon Bay, CA, USA",37.4635519,-122.4285862,APPROXIMATE,ChIJC8sZCqULj4ARVJvnNcic_V4,"locality,political",,"Half Moon Bay, CA",1,OK
+548,"Parker, CO, USA",39.5186002,-104.7613633,APPROXIMATE,ChIJVT2aI86RbIcRJiQuPdTumtQ,"locality,political",,"Parker, CO",1,OK
+549,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+550,Russia,61.52401,105.318756,APPROXIMATE,ChIJ-yRniZpWPEURE_YRZvj9CRQ,"country,political",,Russia,1,OK
+551,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,"Shanghai, China",1,OK
+552,"Łódź, Poland",51.7592485,19.4559833,APPROXIMATE,ChIJr1ZFdSTLG0cRrNshm2OufMs,"locality,political",91,"Łódź, Poland",1,OK
+553,,,,,,,,"Tokyo, Japan",0,REQUEST_DENIED
+554,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+555,Australia,-25.274398,133.775136,APPROXIMATE,ChIJ38WHZwf9KysRUhNblaFnglM,"country,political",,Australia,1,OK
+556,"Nashville Metropolitan Area, TN, USA",36.1298932,-86.6611083,APPROXIMATE,ChIJJ-wbJF5mZIgRG1ygVj5aWcI,"colloquial_area,political",,"Greater Nashville Area, TN",1,OK
+557,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+558,"Mountain View, CA, USA",37.3860517,-122.0838511,APPROXIMATE,ChIJiQHsW0m3j4ARm69rRkrUF3w,"locality,political",,Mountain View,1,OK
+559,"Stockholm, Sweden",59.3293235,18.0685808,APPROXIMATE,ChIJywtkGTF2X0YRZnedZ9MnDag,"locality,political",,"Stockholm, Sweden",1,OK
+560,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+561,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+562,"Sunnyvale, CA, USA",37.36883,-122.0363496,APPROXIMATE,ChIJO13QqUW2j4ARosN83Sb7jXY,"locality,political",,"Sunnyvale,CA",1,OK
+563,,,,,,,,"Walnut Creek, CA",0,REQUEST_DENIED
+564,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+565,,,,,,,,Planet Earth,0,REQUEST_DENIED
+566,"27 Ranch Dr, Milpitas, CA 95035, USA",37.4271663,-121.9232437,ROOFTOP,ChIJH7wfrsTJj4ARgwiMF45PFm4,"bar,bowling_alley,establishment,food,point_of_interest,restaurant",95035,Big Al's Yak Emporium,1,OK
+567,"Siberia, Russia",61.0137097,99.1966559,APPROXIMATE,ChIJO3rn9brrh1wRTEZnK5gSRCw,"colloquial_area,political",,"Russia, Siberia",1,OK
+568,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,London,1,OK
+569,"Suffolk, UK",52.1872472,0.9707801,APPROXIMATE,ChIJ4RrP7mIV2EcR-mrZ7pFDz7g,"administrative_area_level_2,political",,"Suffolk, UK",1,OK
+570,,,,,,,,,0,REQUEST_DENIED
+571,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,Beijing,1,OK
+572,,,,,,,,PID 1,0,ZERO_RESULTS
+573,"Paris, France",48.856614,2.3522219,APPROXIMATE,ChIJD7fiBh9u5kcRYJSMaMOCCwQ,"locality,political",,"Paris, France",1,OK
+574,,,,,,,,,0,REQUEST_DENIED
+575,"Vilnius, Lithuania",54.6871555,25.2796514,APPROXIMATE,ChIJ9QhkXPuT3UYRQNzpcIzRAAQ,"locality,political",,"Vilnius, Lithuania",1,OK
+576,,,,,,,,"San Francisco, CA",0,REQUEST_DENIED
+577,,,,,,,,Romania,0,REQUEST_DENIED
+578,China,35.86166,104.195397,APPROXIMATE,ChIJwULG5WSOUDERbzafNHyqHZU,"country,political",,China,1,OK
+579,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+580,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,"London, United Kingdom",1,OK
+581,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,London,1,OK
+582,"218 Nanshan Rd, Wu Shan Shang Quan, Shangcheng Qu, Hangzhou Shi, Zhejiang Sheng, China",30.243379,120.160433,ROOFTOP,ChIJKdOMN1-dTDQRwGvvxnK5OnQ,"establishment,point_of_interest,university",,"Life is Art, HangZhou China",1,OK
+583,"Tampa, FL, USA",27.950575,-82.4571776,APPROXIMATE,ChIJ4dG5s4K3wogRY7SWr4kTX6c,"locality,political",,"Tampa, FL",1,OK
+584,,,,,,,,"Mocsow, Russia",0,REQUEST_DENIED
+585,"Philadelphia, PA, USA",39.9525839,-75.1652215,APPROXIMATE,ChIJ60u11Ni3xokRwVg-jNgU9Yk,"locality,political",,"Philadelphia, PA",1,OK
+586,,,,,,,,,0,REQUEST_DENIED
+587,,,,,,,,Beijing,0,REQUEST_DENIED
+588,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,"New York, NY",1,OK
+589,,,,,,,,"Abilene, Texas, USA",0,REQUEST_DENIED
+590,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,London,1,OK
+591,,,,,,,,"Mästerbotten, Sweden",0,ZERO_RESULTS
+592,"College Park, MD, USA",38.9896967,-76.93776,APPROXIMATE,ChIJmUZxDR7Et4kRlW3TbeMNjOs,"locality,political",,"College Park, MD",1,OK
+593,"Idaho Panhandle, ID, USA",46.4152745,-117.0018462,APPROXIMATE,ChIJu8dGa0sPYFMRJ5xXlWwAYP8,"colloquial_area,political",,"Deep in the woods, North Idaho, USA",1,OK
+594,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,"Shanghai, China",1,OK
+595,,,,,,,,::,0,REQUEST_DENIED
+596,,,,,,,,"South Africa, Stellenbosch",0,REQUEST_DENIED
+597,,,,,,,,,0,REQUEST_DENIED
+598,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,"Tokyo, Japan",1,OK
+599,China,35.86166,104.195397,APPROXIMATE,ChIJwULG5WSOUDERbzafNHyqHZU,"country,political",,China,1,OK
+600,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,"London, UK",1,OK
+601,"Hamburg, Germany",53.5510846,9.9936819,APPROXIMATE,ChIJuRMYfoNhsUcRoDrWe_I9JgQ,"locality,political",,"Hamburg, Germany",1,OK
+602,"Adelaide SA, Australia",-34.9284989,138.6007456,APPROXIMATE,ChIJP7Mmxcc1t2oRQMaOYlQ2AwQ,"colloquial_area,locality,political",,"Adelaide, South Australia",1,OK
+603,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+604,"Los Angeles, CA, USA",34.0522342,-118.2436849,APPROXIMATE,ChIJE9on3F3HwoAR9AhGJW_fL-I,"locality,political",,Los Angeles,1,OK
+605,"Ottawa, ON, Canada",45.4215296,-75.6971931,APPROXIMATE,ChIJrxNRX7IFzkwR7RXdMeFRaoo,"locality,political",,"Ottawa, Canada",1,OK
+606,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+607,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+608,"Göppingen, Germany",48.7054382,9.6512491,APPROXIMATE,ChIJM6wrevKjmUcRw-lnL3fxJRo,"locality,political",,"Göppingen, Germany",1,OK
+609,"Moscow, Russia",55.755826,37.6172999,APPROXIMATE,ChIJybDUc_xKtUYRTM9XV8zWRD0,"locality,political",,Moscow/Russia,1,OK
+610,"Exeter, UK",50.718412,-3.533899,APPROXIMATE,ChIJp41J1MRSbEgRHq3fayXjdqk,"locality,political",,"Exeter, UK",1,OK
+611,,,,,,,,,0,REQUEST_DENIED
+612,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,"Tokyo, Japan",1,OK
+613,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+614,,,,,,,,,0,REQUEST_DENIED
+615,"Salvador - State of Bahia, Brazil",-12.977749,-38.5016301,APPROXIMATE,ChIJs6U8onwDFgcRmGYiLJHHnxs,"administrative_area_level_2,political",,Salvador,1,OK
+616,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,Shanghai China,1,OK
+617,"Austin, TX, USA",30.267153,-97.7430608,APPROXIMATE,ChIJLwPMoJm1RIYRetVp1EtGm10,"locality,political",,"Austin, TX",1,OK
+618,"Palo Alto, CA, USA",37.4418834,-122.1430195,APPROXIMATE,ChIJORy6nXuwj4ARz3b1NVL1Hw4,"locality,political",,Palo Alto,1,OK
+619,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+620,Italy,41.87194,12.56738,APPROXIMATE,ChIJA9KNRIL-1BIRb15jJFz1LOI,"country,political",,Italy,1,OK
+621,"Hsinchu, East District, Hsinchu City, Taiwan",24.8138287,120.9674798,APPROXIMATE,ChIJEUtLGts1aDQRDDvTtbzcCdQ,"colloquial_area,locality,political",,"Hsinchu, Taiwan",1,OK
+622,"Toronto, ON, Canada",43.653226,-79.3831843,APPROXIMATE,ChIJpTvG15DL1IkRd8S0KlBVNTI,"locality,political",,"Toronto, ON ",1,OK
+623,Germany,51.165691,10.451526,APPROXIMATE,ChIJa76xwh5ymkcRW-WRjmtd6HU,"country,political",,Germany,1,OK
+624,Switzerland,46.818188,8.227512,APPROXIMATE,ChIJYW1Zb-9kjEcRFXvLDxG1Vlw,"country,political",,Switzerland,1,OK
+625,,,,,,,,"Darmstadt, European Union",0,REQUEST_DENIED
+626,,,,,,,,"Pleasant Grove, Utah, USA",0,REQUEST_DENIED
+627,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+628,,,,,,,,Silicon Valley,0,REQUEST_DENIED
+629,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,"Shanghai, China",1,OK
+630,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,"Beijing, China",1,OK
+631,"Brussels, Belgium",50.8503463,4.3517211,APPROXIMATE,ChIJ_58PdIbEw0cRMIBML6uZAAE,"administrative_area_level_1,political",,"Brussels, Belgium",1,OK
+632,,,,,,,,"Barcelona, Spain",0,REQUEST_DENIED
+633,,,,,,,,Shenzhen,0,REQUEST_DENIED
+634,"Portland, OR, USA",45.5051064,-122.6750261,APPROXIMATE,ChIJJ3SpfQsLlVQRkYXR9ua5Nhw,"locality,political",,"Portland, OR",1,OK
+635,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+636,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,"Beijing, China",1,OK
+637,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+638,"Oslo, Norway",59.9138688,10.7522454,APPROXIMATE,ChIJOfBn8mFuQUYRmh4j019gkn4,"locality,political",,"Oslo, Norway",1,OK
+639,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+640,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+641,,,,,,,,"HangZhou,China",0,REQUEST_DENIED
+642,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+643,"Houston, TX, USA",29.7604267,-95.3698028,APPROXIMATE,ChIJAYWNSLS4QIYROwVl894CDco,"locality,political",,Houston,1,OK
+644,"Brooklyn, NY, USA",40.6781784,-73.9441579,APPROXIMATE,ChIJCSF8lBZEwokRhngABHRcdoI,"political,sublocality,sublocality_level_1",,"Brooklyn, NY",1,OK
+645,,,,,,,,Vsetín/Czech Republic,0,REQUEST_DENIED
+646,"Wuhan, Hubei, China",30.592849,114.305539,APPROXIMATE,ChIJb_KF3fiuLjQRECJYbKzJwjk,"locality,political",,Wuhan,1,OK
+647,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+648,,,,,,,,"Vancouver, Canada",0,REQUEST_DENIED
+649,,,,,,,,"San Francisco, CA",0,REQUEST_DENIED
+650,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,London,1,OK
+651,"State of Goiás, Brazil",-15.8270369,-49.8362237,APPROXIMATE,ChIJ9SC5hmO5XZMR0_CMzfjYxgg,"administrative_area_level_1,political",,Goiás - Brazil,1,OK
+652,,,,,,,,成都,0,REQUEST_DENIED
+653,,,,,,,,"Portland, OR",0,REQUEST_DENIED
+654,France,46.227638,2.213749,APPROXIMATE,ChIJMVd4MymgVA0R99lHx5Y__Ws,"country,political",,France,1,OK
+655,China,35.86166,104.195397,APPROXIMATE,ChIJwULG5WSOUDERbzafNHyqHZU,"country,political",,China,1,OK
+656,France,46.227638,2.213749,APPROXIMATE,ChIJMVd4MymgVA0R99lHx5Y__Ws,"country,political",,France,1,OK
+657,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+658,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+659,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,NYC,1,OK
+660,"Lille, France",50.62925,3.057256,APPROXIMATE,ChIJEW4ls3nVwkcRYGNkgT7xCgQ,"locality,political",,"Lille, France",1,OK
+661,"Paris, France",48.856614,2.3522219,APPROXIMATE,ChIJD7fiBh9u5kcRYJSMaMOCCwQ,"locality,political",,"Paris, France",1,OK
+662,Ireland,53.1423672,-7.6920536,APPROXIMATE,ChIJj2lzXZ5hXkgRjcZqTUQ5m8o,"establishment,natural_feature",,Ireland,2,OK
+663,,,,,,,,,0,REQUEST_DENIED
+664,"California, USA",36.778261,-119.4179324,APPROXIMATE,ChIJPV4oX_65j4ARVW8IJ6IJUYs,"administrative_area_level_1,political",,California,1,OK
+665,,,,,,,,,0,REQUEST_DENIED
+666,,,,,,,,"Los Angeles, CA",0,REQUEST_DENIED
+667,"Haidian, Beijing, China",39.959953,116.298326,APPROXIMATE,ChIJY61lyDdR8DURicN9xoOvSNM,"political,sublocality,sublocality_level_1",,"haidian,beijing,china",1,OK
+668,"Xiamen, Fujian, China",24.479833,118.089425,APPROXIMATE,ChIJJ-u_5XmDFDQRVtBolgpnoCg,"locality,political",,"Xiamen, China",1,OK
+669,,,,,,,,北京市朝阳区,0,REQUEST_DENIED
+670,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+671,Ukraine,48.379433,31.1655799,APPROXIMATE,ChIJjw5wVMHZ0UAREED2iIQGAQA,"country,political",,Ukraine,1,OK
+672,"Bengaluru, Karnataka, India",12.9715987,77.5945627,APPROXIMATE,ChIJbU60yXAWrjsR4E9-UejD3_g,"locality,political",,"Bangalore,India",1,OK
+673,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+674,"Des Moines, IA, USA",41.5868353,-93.6249593,APPROXIMATE,ChIJ5x5hwaSZ7ocRsuSRJlEoAHE,"locality,political",,"Des Moines, IA, US",1,OK
+675,,,,,,,,,0,REQUEST_DENIED
+676,"Indianapolis, IN, USA",39.768403,-86.158068,APPROXIMATE,ChIJA2p5p_9Qa4gRfOq5QPadjtY,"locality,political",,Indianapolis,1,OK
+677,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+678,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,London,1,OK
+679,,,,,,,,Kyiv,0,REQUEST_DENIED
+680,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+681,Switzerland,46.818188,8.227512,APPROXIMATE,ChIJYW1Zb-9kjEcRFXvLDxG1Vlw,"country,political",,Switzerland,1,OK
+682,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, California",1,OK
+683,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,Seattle,1,OK
+684,Canada,56.130366,-106.346771,APPROXIMATE,ChIJ2WrMN9MDDUsRpY9Doiq3aJk,"country,political",,Canada,1,OK
+685,"Zürich, Switzerland",47.3768866,8.541694,APPROXIMATE,ChIJGaK-SZcLkEcRA9wf5_GNbuY,"locality,political",,"Zürich, Switzerland",1,OK
+686,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+687,"Houston, TX, USA",29.7604267,-95.3698028,APPROXIMATE,ChIJAYWNSLS4QIYROwVl894CDco,"locality,political",,"Houston, TX",1,OK
+688,,,,,,,,"London, UK",0,REQUEST_DENIED
+689,"Poznań, Poland",52.406374,16.9251681,APPROXIMATE,ChIJtwrh7NJEBEcR0b80A5gx6qQ,"locality,political",60,"Poznań, Poland",1,OK
+690,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+691,"Minsk, Belarus",53.9006011,27.558972,APPROXIMATE,ChIJ02oeW9PP20YR2XC13VO4YQs,"locality,political",,"Minsk, Belarus",1,OK
+692,"Madrid, Spain",40.4167754,-3.7037902,APPROXIMATE,ChIJgTwKgJcpQg0RaSKMYcHeNsQ,"locality,political",,Madrid,1,OK
+693,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+694,"Tampa, FL, USA",27.950575,-82.4571776,APPROXIMATE,ChIJ4dG5s4K3wogRY7SWr4kTX6c,"locality,political",,"Tampa, Fl",1,OK
+695,"Shenzhen, Guangdong, China",22.543096,114.057865,APPROXIMATE,ChIJkVLh0Aj0AzQRyYCStw1V7v0,"locality,political",,"Shenzhen, China",1,OK
+696,Japan,36.204824,138.252924,APPROXIMATE,ChIJLxl_1w9OZzQRRFJmfNR1QvU,"country,political",,Japan,1,OK
+697,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,Shanghai,1,OK
+698,,,,,,,,"Berlin, Germany",0,REQUEST_DENIED
+699,,,,,,,,"Kansas, United States",0,REQUEST_DENIED
+700,,,,,,,,Göteborg,0,REQUEST_DENIED
+701,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,"London, UK",1,OK
+702,"Canberra ACT 2601, Australia",-35.2809368,149.1300092,APPROXIMATE,ChIJIZBcsGlNFmsRYFZpp27qAAU,"locality,political",2601,"Canberra, Australia",1,OK
+703,Canada,56.130366,-106.346771,APPROXIMATE,ChIJ2WrMN9MDDUsRpY9Doiq3aJk,"country,political",,Canada,1,OK
+704,"Montreal, QC, Canada",45.5016889,-73.567256,APPROXIMATE,ChIJDbdkHFQayUwR7-8fITgxTmU,"locality,political",,"Montréal, Quebec",1,OK
+705,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+706,"Trondheim, Norway",63.4305149,10.3950528,APPROXIMATE,ChIJU34DR5cxbUYR1PM8jyjI9ws,"locality,political",,"Trondheim, Norway",1,OK
+707,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,"Beijing, China",1,OK
+708,,,,,,,,Tokyo,0,REQUEST_DENIED
+709,,,,,,,,"Los Angeles, CA",0,REQUEST_DENIED
+710,,,,,,,,Vancouver - Canada,0,REQUEST_DENIED
+711,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+712,,,,,,,,shenzhen,0,REQUEST_DENIED
+713,,,,,,,,California,0,REQUEST_DENIED
+714,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,"China, BeiJing",1,OK
+715,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+716,,,,,,,,,0,REQUEST_DENIED
+717,,,,,,,,,0,REQUEST_DENIED
+718,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+719,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+720,,,,,,,,"Cairo, Egypt",0,REQUEST_DENIED
+721,,,,,,,,,0,REQUEST_DENIED
+722,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,New York,1,OK
+723,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,"Tokyo, Japan",1,OK
+724,"Manila, Metro Manila, Philippines",14.5995124,120.9842195,APPROXIMATE,ChIJi8MeVwPKlzMRH8FpEHXV0Wk,"locality,political",,"Manila, Philippines",1,OK
+725,,,,,,,,"TianJin, China",0,REQUEST_DENIED
+726,,,,,,,,berlin,0,REQUEST_DENIED
+727,"Zug, Bahnhofplatz, 6300 Zug, Switzerland",47.1735054,8.5153045,ROOFTOP,ChIJt3qYofeqmkcRjT2MlXDbvvk,"bus_station,establishment,point_of_interest,train_station,transit_station",6300,"Zug/Zurich, Switzerland",1,OK
+728,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,New York,1,OK
+729,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+730,,,,,,,,United States,0,REQUEST_DENIED
+731,Germany,51.165691,10.451526,APPROXIMATE,ChIJa76xwh5ymkcRW-WRjmtd6HU,"country,political",,Germany,1,OK
+732,"Tacoma, WA, USA",47.2528768,-122.4442906,APPROXIMATE,ChIJZ5VlK-5UkFQRgp6w6wecIWI,"locality,political",,"Tacoma, WA",1,OK
+733,"Cambridge, MA, USA",42.3736158,-71.1097335,APPROXIMATE,ChIJX8wwy6Vw44kRh2xoiWSOOsU,"locality,political",,"Cambridge, MA",1,OK
+734,"Quebec, Canada",52.9399159,-73.5491361,APPROXIMATE,ChIJoajRnzS1WEwRIABNrq0MBAE,"administrative_area_level_1,political",,"QC, Canada",1,OK
+735,"Cambridge, MA, USA",42.3736158,-71.1097335,APPROXIMATE,ChIJX8wwy6Vw44kRh2xoiWSOOsU,"locality,political",,"Cambridge, MA",1,OK
+736,"Brooklyn, NY, USA",40.6781784,-73.9441579,APPROXIMATE,ChIJCSF8lBZEwokRhngABHRcdoI,"political,sublocality,sublocality_level_1",,"Brooklyn, NY",1,OK
+737,,,,,,,,"Cary, NC",0,REQUEST_DENIED
+738,,,,,,,,San Jose,0,REQUEST_DENIED
+739,,,,,,,,,0,REQUEST_DENIED
+740,"Warsaw, Poland",52.2296756,21.0122287,APPROXIMATE,ChIJAZ-GmmbMHkcR_NPqiCq-8HI,"locality,political",3,"Warsaw, Poland",1,OK
+741,"14268 S Maple Ln Ct, Oregon City, OR 97045, USA",45.3332482,-122.5728874,ROOFTOP,ChIJO8viEA91lVQRSPNbJ_t_mp4,"electronics_store,establishment,point_of_interest,store",97045,Remote,1,OK
+742,"Stockholm, Sweden",59.3293235,18.0685808,APPROXIMATE,ChIJywtkGTF2X0YRZnedZ9MnDag,"locality,political",,"Stockholm, Sweden",1,OK
+743,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,"Beijing,China",1,OK
+744,"Ankara, Turkey",39.9333635,32.8597419,APPROXIMATE,ChIJsS1zINVH0xQRjSuEwLBX3As,"locality,political",,"Ankara, TR",1,OK
+745,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,"London, UK",1,OK
+746,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+747,"Missoula, MT, USA",46.8721284,-113.9940314,APPROXIMATE,ChIJy2fzUCrMXVMRLoCUyncS4-k,"locality,political",,"Missoula, Montana",1,OK
+748,United States,37.09024,-95.712891,APPROXIMATE,ChIJCzYy5IS16lQRQrfeQ5K5Oxw,"country,political",,United States,1,OK
+749,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+750,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+751,France,46.227638,2.213749,APPROXIMATE,ChIJMVd4MymgVA0R99lHx5Y__Ws,"country,political",,France,1,OK
+752,"Hangzhou, Zhejiang, China",30.274084,120.15507,APPROXIMATE,ChIJmaqaQym2SzQROuhNgoPRv6c,"locality,political",,HangZhou,1,OK
+753,,,,,,,,Beijing,0,REQUEST_DENIED
+754,,,,,,,,"Kraków, Poland",0,REQUEST_DENIED
+755,,,,,,,,Colorado,0,REQUEST_DENIED
+756,,,,,,,,,0,REQUEST_DENIED
+757,Jumeirah St - إمارة دبيّ - United Arab Emirates,25.1530072,55.2012823,GEOMETRIC_CENTER,ChIJr3xh40BqXz4RjR0cqOJryyY,"establishment,health,hospital,point_of_interest",,London / Dubai,1,OK
+758,Italy,41.87194,12.56738,APPROXIMATE,ChIJA9KNRIL-1BIRb15jJFz1LOI,"country,political",,Italia,1,OK
+759,,,,,,,,"San Francisco, CA",0,REQUEST_DENIED
+760,,,,,,,,,0,REQUEST_DENIED
+761,"Jakarta, Indonesia",-6.2087634,106.845599,APPROXIMATE,ChIJnUvjRenzaS4RoobX2g-_cVM,"colloquial_area,locality,political",,"Jakarta, Indonesia",1,OK
+762,,,,,,,,"Berlin, Germany",0,REQUEST_DENIED
+763,,,,,,,,"New York, NY",0,REQUEST_DENIED
+764,"Montreal, QC, Canada",45.5016889,-73.567256,APPROXIMATE,ChIJDbdkHFQayUwR7-8fITgxTmU,"locality,political",,Montreal,1,OK
+765,,,,,,,,"UK, London",0,REQUEST_DENIED
+766,,,,,,,,,0,REQUEST_DENIED
+767,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,Berlin,1,OK
+768,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+769,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+770,"Amsterdam, Netherlands",52.3666969,4.8945398,APPROXIMATE,ChIJVXealLU_xkcRja_At0z9AGY,"locality,political",,"Amsterdam, Netherlands",1,OK
+771,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+772,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+773,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+774,"Montreal, QC, Canada",45.5016889,-73.567256,APPROXIMATE,ChIJDbdkHFQayUwR7-8fITgxTmU,"locality,political",,Montreal,1,OK
+775,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+776,,,,,,,,,0,REQUEST_DENIED
+777,"Concord, NC, USA",35.4087517,-80.579511,APPROXIMATE,ChIJS_yqzmIFVIgRva7NPsC4ofA,"locality,political",,"Concord, NC",1,OK
+778,"Tartu, Estonia",58.377983,26.7290383,APPROXIMATE,ChIJ9z1d1dg260YREG38GG2zAAQ,"locality,political",,"Estonia, Tartu",1,OK
+779,"Sydney NSW, Australia",-33.8688197,151.2092955,APPROXIMATE,ChIJP3Sa8ziYEmsRUKgyFmh9AQM,"colloquial_area,locality,political",,"Sydney, Australia",1,OK
+780,,,,,,,,"Hangzhou, China",0,REQUEST_DENIED
+781,"Phoenix, AZ 85032, USA",33.6024029,-111.9818562,GEOMETRIC_CENTER,ChIJ_dmipLtzK4cR-5WMqAdMRf8,"clothing_store,establishment,point_of_interest,store",85032,Planet Earth,1,OK
+782,"Paris, France",48.856614,2.3522219,APPROXIMATE,ChIJD7fiBh9u5kcRYJSMaMOCCwQ,"locality,political",,"Paris, France",1,OK
+783,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+784,,,,,,,,,0,REQUEST_DENIED
+785,,,,,,,,"Palo Alto, CA",0,REQUEST_DENIED
+786,"Los Alamos, NM 87544, USA",35.8800364,-106.3031138,APPROXIMATE,ChIJp2R93axsGIcRPa2AtTB3YuI,"locality,political",87544,"Los Alamos, NM",1,OK
+787,"Kalamazoo, MI, USA",42.2917069,-85.5872286,APPROXIMATE,ChIJuZIxSXmdF4gRCTBXSdL4fNo,"locality,political",,"Kalamazoo, MI",1,OK
+788,Canada,56.130366,-106.346771,APPROXIMATE,ChIJ2WrMN9MDDUsRpY9Doiq3aJk,"country,political",,Canada,1,OK
+789,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+790,,,,,,,,"Massachusetts, USA",0,REQUEST_DENIED
+791,"Galați, Romania",45.4353208,28.0079945,APPROXIMATE,ChIJtcTyieXetkARK3AtJS8011M,"locality,political",,"Galați, România",1,OK
+792,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+793,"Ypsilanti, MI, USA",42.2411499,-83.6129939,APPROXIMATE,ChIJrfq42W2oPIgRUTRKX0D3xvk,"locality,political",,Ypsi,1,OK
+794,Austria,47.516231,14.550072,APPROXIMATE,ChIJfyqdJZsHbUcRr8Hk3XvUEhA,"country,political",,Austria,1,OK
+795,"Geneva, Switzerland",46.2043907,6.1431577,APPROXIMATE,ChIJ6-LQkwZljEcRObwLezWVtqA,"locality,political",,Geneva,1,OK
+796,,,,,,,,,0,REQUEST_DENIED
+797,"Paris, France",48.856614,2.3522219,APPROXIMATE,ChIJD7fiBh9u5kcRYJSMaMOCCwQ,"locality,political",,Paris,1,OK
+798,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,"London, England",1,OK
+799,"San Rafael, CA, USA",37.9735346,-122.5310874,APPROXIMATE,ChIJL3oJNmeXhYARVCbi5iBNAb4,"locality,political",,"San Rafael, CA US",1,OK
+800,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+801,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,"Seattle, Wa",1,OK
+802,,,,,,,,"Reading, UK",0,REQUEST_DENIED
+803,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,Beijing,1,OK
+804,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+805,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+806,Pakistan,30.375321,69.345116,APPROXIMATE,ChIJH3X9-NJS2zgRXJIU5veht0Y,"country,political",,Pakistan,1,OK
+807,"Paris, France",48.856614,2.3522219,APPROXIMATE,ChIJD7fiBh9u5kcRYJSMaMOCCwQ,"locality,political",,Paris,1,OK
+808,"Boston, MA, USA",42.3600825,-71.0588801,APPROXIMATE,ChIJGzE9DS1l44kRoOhiASS_fHg,"locality,political",,Boston,1,OK
+809,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+810,"San Jose, CA, USA",37.3382082,-121.8863286,APPROXIMATE,ChIJ9T_5iuTKj4ARe3GfygqMnbk,"locality,political",,"San Jose, CA",1,OK
+811,,,,,,,,Paris,0,REQUEST_DENIED
+812,,,,,,,,"Boston, MA, USA",0,REQUEST_DENIED
+813,"Oakland, CA, USA",37.8043514,-122.2711639,APPROXIMATE,ChIJA-2qKIt9hYARZ5N1NdUVtHE,"locality,political",,"Oakland, CA",1,OK
+814,"Austin, TX, USA",30.267153,-97.7430608,APPROXIMATE,ChIJLwPMoJm1RIYRetVp1EtGm10,"locality,political",,"Austin, TX",1,OK
+815,,,,,,,,"Chicago, IL",0,REQUEST_DENIED
+816,"Buenos Aires, Argentina",-34.6036844,-58.3815591,APPROXIMATE,ChIJvQz5TjvKvJURh47oiC6Bs6A,"locality,political",,"Buenos Aires, Argentina",1,OK
+817,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+818,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+819,"Vancouver, BC, Canada",49.2827291,-123.1207375,APPROXIMATE,ChIJs0-pQ_FzhlQRi_OBm-qWkbs,"locality,political",,"Vancouver, Canada",1,OK
+820,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+821,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,London,1,OK
+822,,,,,,,,,0,REQUEST_DENIED
+823,"Charmey, 1637 Val-de-Charmey, Switzerland",46.6175845,7.1654493,APPROXIMATE,ChIJ-zWKAYpfjkcRfjFAOBc6cFU,"neighborhood,political",1637,"Charmey, Switzerland",1,OK
+824,"San Francisco Bay Area, CA, USA",37.8271784,-122.2913078,APPROXIMATE,ChIJtdeIpqODhYARqR9GV4QbiYw,"colloquial_area,political",,Bay Area,1,OK
+825,,,,,,,,Oslo,0,REQUEST_DENIED
+826,,,,,,,,"Berlin, Germany",0,REQUEST_DENIED
+827,"Wuhan, Hubei, China",30.592849,114.305539,APPROXIMATE,ChIJb_KF3fiuLjQRECJYbKzJwjk,"locality,political",,"China,WuHan",1,OK
+828,,,,,,,,,0,REQUEST_DENIED
+829,"Osaka, Japan",34.6937249,135.5022535,APPROXIMATE,ChIJ4eIGNFXmAGAR5y9q5G7BW8U,"locality,political",,"Japan, Osaka",1,OK
+830,"Bristol, UK",51.454513,-2.58791,APPROXIMATE,ChIJYdizgWaDcUgRH9eaSy6y5I4,"locality,political",,"Bristol, United Kingdom",1,OK
+831,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,"Beijing, China",1,OK
+832,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+833,"Mountain View, CA, USA",37.3860517,-122.0838511,APPROXIMATE,ChIJiQHsW0m3j4ARm69rRkrUF3w,"locality,political",,Mountain View,1,OK
+834,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,Seattle,1,OK
+835,"Rotterdam, Netherlands",51.9244201,4.4777326,APPROXIMATE,ChIJfcRUX2C3xUcRhUtelay7KVI,"locality,political",,"Rotterdam, Netherlands",1,OK
+836,"5605 Riggins Ct #200, Reno, NV 89502, USA",39.4714884,-119.7767248,ROOFTOP,ChIJzfWg5e8_mYARVXkoKaMt1mQ,"establishment,point_of_interest",89502,On the Internet,2,OK
+837,,,,,,,,"Massachusetts, USA",0,REQUEST_DENIED
+838,United States,37.09024,-95.712891,APPROXIMATE,ChIJCzYy5IS16lQRQrfeQ5K5Oxw,"country,political",,United States,1,OK
+839,France,46.227638,2.213749,APPROXIMATE,ChIJMVd4MymgVA0R99lHx5Y__Ws,"country,political",,France,1,OK
+840,,,,,,,,"Barcelona, Spain",0,REQUEST_DENIED
+841,,,,,,,,,0,REQUEST_DENIED
+842,"Chapel Hill, NC, USA",35.9131996,-79.0558445,APPROXIMATE,ChIJp35uIRzDrIkRy-RDBOC6A38,"locality,political",,"Chapel Hill, NC",1,OK
+843,Israel,31.046051,34.851612,APPROXIMATE,ChIJi8mnMiRJABURuiw1EyBCa2o,"country,political",,Israel,1,OK
+844,"Heping Ave, Qingshan Qu, Wuhan Shi, Hubei Sheng, China",30.622795,114.374682,GEOMETRIC_CENTER,ChIJ0wOd6VumLjQRS3sCw1zv_Zg,"establishment,point_of_interest,university",,"Beijing, Wuhan",2,OK
+845,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,"BeiJing,China",1,OK
+846,"Sydney NSW, Australia",-33.8688197,151.2092955,APPROXIMATE,ChIJP3Sa8ziYEmsRUKgyFmh9AQM,"colloquial_area,locality,political",,"Sydney, Australia",1,OK
+847,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,Shanghai,1,OK
+848,"Zürich, Switzerland",47.3768866,8.541694,APPROXIMATE,ChIJGaK-SZcLkEcRA9wf5_GNbuY,"locality,political",,"Zürich, Switzerland",1,OK
+849,"Greater Sudbury, ON, Canada",46.4917317,-80.993029,APPROXIMATE,ChIJ7TLxxjb_Lk0R-Iych7jVjWY,"locality,political",,"Sudbury, ON, Canada",1,OK
+850,France,46.227638,2.213749,APPROXIMATE,ChIJMVd4MymgVA0R99lHx5Y__Ws,"country,political",,France,1,OK
+851,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,"Beijing, Asia, Earth",1,OK
+852,"Tempe, AZ, USA",33.4255104,-111.9400054,APPROXIMATE,ChIJ44CqppgIK4cRH7QsOa1K3aI,"locality,political",,"Tempe, Arizona",1,OK
+853,"Luleå, Sweden",65.584819,22.1567026,APPROXIMATE,ChIJZ7jo0hRjf0YRIIaM3gZFAwQ,"locality,political",,"Luleå, Sweden",1,OK
+854,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+855,"Cupertino, CA, USA",37.3229978,-122.0321823,APPROXIMATE,ChIJq3fTG1e0j4ARtHjho-E_TTk,"locality,political",,"Cupertino, California",1,OK
+856,,,,,,,,"Seattle, WA",0,REQUEST_DENIED
+857,"Strasbourg, France",48.5734053,7.7521113,APPROXIMATE,ChIJwbIYXknIlkcRHyTnGDFIGpc,"locality,political",,"Strasbourg, France",1,OK
+858,,,,,,,,::,0,ZERO_RESULTS
+859,"3rd Floor Azabu Maruka Bldg., 3-8-2 Higashiazabu, ３丁目-８ 東麻布 Minato, Tokyo 106-0044, Japan",35.656613,139.73742,GEOMETRIC_CENTER,ChIJLV7frZiLGGARZBfEl5djS44,"establishment,point_of_interest",106-0044,"Tokyo, JAPAN and the Internet",1,OK
+860,"Sunnyvale, CA, USA",37.36883,-122.0363496,APPROXIMATE,ChIJO13QqUW2j4ARosN83Sb7jXY,"locality,political",,"Lithuania / Israel / Sunnyvale, USA",1,OK
+861,"Nizhny Novgorod, Nizhny Novgorod Oblast, Russia",56.2965039,43.936059,APPROXIMATE,ChIJUTID7vnVUUERqleWhM_A0yg,"locality,political",,"Nizhniy Novgorod, Russia",1,OK
+862,"Edmonton, AB, Canada",53.5461245,-113.4938229,APPROXIMATE,ChIJI__egEUioFMRXRX2SgygH0E,"locality,political",,Edmonton,1,OK
+863,"Dresden, Germany",51.0504088,13.7372621,APPROXIMATE,ChIJqdYaECnPCUcRsP6IQsuxIQQ,"locality,political",,"Dresden, Germany",1,OK
+864,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,"Berlin, Germany",1,OK
+865,,,,,,,,Los Angeles,0,REQUEST_DENIED
+866,Germany,51.165691,10.451526,APPROXIMATE,ChIJa76xwh5ymkcRW-WRjmtd6HU,"country,political",,Germany,1,OK
+867,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+868,,,,,,,,"Lyon, France",0,REQUEST_DENIED
+869,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,NYC,1,OK
+870,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+871,,,,,,,,Australia,0,REQUEST_DENIED
+872,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+873,,,,,,,,"Hangzhou, China",0,REQUEST_DENIED
+874,"Eindhoven, Netherlands",51.441642,5.4697225,APPROXIMATE,ChIJn8N5VRvZxkcRmLlkgWTSmvM,"locality,political",,"Netherlands, Eindhoven",1,OK
+875,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+876,"Kyoto, Japan",35.011564,135.7681489,APPROXIMATE,ChIJ8cM8zdaoAWARPR27azYdlsA,"locality,political",,"Kyoto, Japan",1,OK
+877,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+878,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+879,"1732 E Buena Vista Dr, Orlando, FL 32830, USA",28.3727178,-81.5140897,ROOFTOP,ChIJ50DVbSiA3YgRbGLsNPoN0o0,"establishment,point_of_interest,tourist_attraction",32830,the void,1,OK
+880,,,,,,,,"NYC, Semi-Digital Nomad",0,REQUEST_DENIED
+881,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+882,"Raleigh, NC, USA",35.7795897,-78.6381787,APPROXIMATE,ChIJ9-BRny9arIkRrfARilK2kGc,"locality,political",,"Raleigh, NC",1,OK
+883,"Oslo, Norway",59.9138688,10.7522454,APPROXIMATE,ChIJOfBn8mFuQUYRmh4j019gkn4,"locality,political",,Oslo,1,OK
+884,,,,,,,,"London, UK",0,REQUEST_DENIED
+885,,,,,,,,,0,REQUEST_DENIED
+886,"Pisa, Province of Pisa, Italy",43.7228386,10.4016888,APPROXIMATE,ChIJj1n28JqR1RIRyHiEp7UPuKo,"locality,political",,Pisa,1,OK
+887,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+888,"Kyiv, Ukraine, 02000",50.4501,30.5234,APPROXIMATE,ChIJBUVa4U7P1EAR_kYBF9IxSXY,"locality,political",2000,Kyiv,1,OK
+889,"Atlanta, GA, USA",33.7489954,-84.3879824,APPROXIMATE,ChIJjQmTaV0E9YgRC2MLmS_e_mY,"locality,political",,"Atlanta, Georgia, USA",1,OK
+890,"Los Angeles, CA, USA",34.0522342,-118.2436849,APPROXIMATE,ChIJE9on3F3HwoAR9AhGJW_fL-I,"locality,political",,Los Angeles,1,OK
+891,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,"Seattle, WA",1,OK
+892,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+893,"Newcastle NSW, Australia",-32.9282712,151.7816802,APPROXIMATE,ChIJ5QLHcRM-c2sRoKgyFmh9AQQ,"colloquial_area,locality,political",,"Newcastle, Australia",1,OK
+894,"Aarhus, Denmark",56.162939,10.203921,APPROXIMATE,ChIJi3iXU7FMTEYRr6IukdnXTYw,"locality,political",,"Århus, Denmark",1,OK
+895,"Shenzhen, Guangdong, China",22.543096,114.057865,APPROXIMATE,ChIJkVLh0Aj0AzQRyYCStw1V7v0,"locality,political",,"Shenzhen, China",1,OK
+896,"Redlands, CA, USA",34.0555693,-117.1825381,APPROXIMATE,ChIJQ7GWQcZT24ARZ7rbO8rp2XU,"locality,political",,"Redlands, California, USA",1,OK
+897,"Zürich, Switzerland",47.3768866,8.541694,APPROXIMATE,ChIJGaK-SZcLkEcRA9wf5_GNbuY,"locality,political",,"Zurich, Switzerland",1,OK
+898,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+899,"Tampa, FL, USA",27.950575,-82.4571776,APPROXIMATE,ChIJ4dG5s4K3wogRY7SWr4kTX6c,"locality,political",,"Tampa, Florida",1,OK
+900,,,,,,,,The World,0,REQUEST_DENIED
+901,"Budapest, Hungary",47.497912,19.040235,APPROXIMATE,ChIJyc_U0TTDQUcRYBEeDCnEAAQ,"locality,political",,"Budapest, Hungary",1,OK
+902,United States,37.09024,-95.712891,APPROXIMATE,ChIJCzYy5IS16lQRQrfeQ5K5Oxw,"country,political",,USA,1,OK
+903,"Toronto, ON, Canada",43.653226,-79.3831843,APPROXIMATE,ChIJpTvG15DL1IkRd8S0KlBVNTI,"locality,political",,Toronto,1,OK
+904,,,,,,,,"San Francisco, CA",0,REQUEST_DENIED
+905,"Bengaluru, Karnataka, India",12.9715987,77.5945627,APPROXIMATE,ChIJbU60yXAWrjsR4E9-UejD3_g,"locality,political",,Bengaluru,1,OK
+906,,,,,,,,,0,REQUEST_DENIED
+907,,,,,,,,Beijing,0,REQUEST_DENIED
+908,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,New York,1,OK
+909,,,,,,,,,0,REQUEST_DENIED
+910,"Stockholm, Sweden",59.3293235,18.0685808,APPROXIMATE,ChIJywtkGTF2X0YRZnedZ9MnDag,"locality,political",,"Stockholm, Sweden",1,OK
+911,United States,37.09024,-95.712891,APPROXIMATE,ChIJCzYy5IS16lQRQrfeQ5K5Oxw,"country,political",,United States,1,OK
+912,"Amsterdam, Netherlands",52.3666969,4.8945398,APPROXIMATE,ChIJVXealLU_xkcRja_At0z9AGY,"locality,political",,"Amsterdam, Netherlands",1,OK
+913,,,,,,,,,0,REQUEST_DENIED
+914,"Shenzhen, Guangdong, China",22.543096,114.057865,APPROXIMATE,ChIJkVLh0Aj0AzQRyYCStw1V7v0,"locality,political",,"Shenzhen, China",1,OK
+915,,,,,,,,,0,REQUEST_DENIED
+916,Germany,51.165691,10.451526,APPROXIMATE,ChIJa76xwh5ymkcRW-WRjmtd6HU,"country,political",,Germany,1,OK
+917,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,Beijing. China,1,OK
+918,,,,,,,,Netherlands,0,REQUEST_DENIED
+919,"San Francisco Bay Area, CA, USA",37.8271784,-122.2913078,APPROXIMATE,ChIJtdeIpqODhYARqR9GV4QbiYw,"colloquial_area,political",,Bay Area,1,OK
+920,"Central, Hong Kong",22.2799907,114.1587983,APPROXIMATE,ChIJvdEdo2QABDQRUrXM3junB1A,"neighborhood,political",,"Zhong Huan,Hong Kong",1,OK
+921,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+922,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,"Seattle, WA",1,OK
+923,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, United States",1,OK
+924,"Sunnyvale, CA, USA",37.36883,-122.0363496,APPROXIMATE,ChIJO13QqUW2j4ARosN83Sb7jXY,"locality,political",,"Lithuania / Israel / Sunnyvale, USA",1,OK
+925,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+926,"Belo Horizonte, State of Minas Gerais, Brazil",-19.9166813,-43.9344931,APPROXIMATE,ChIJMyzPysqQpgARlznSOl55NVs,"locality,political",,Belo Horizonte - MG / Brazil,1,OK
+927,,,,,,,,,0,REQUEST_DENIED
+928,"İstanbul, Turkey",41.0082376,28.9783589,APPROXIMATE,ChIJawhoAASnyhQR0LABvJj-zOE,"locality,political",,Istanbul,1,OK
+929,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,SF,1,OK
+930,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+931,,,,,,,,Canada,0,REQUEST_DENIED
+932,,,,,,,,Planet Earth,0,REQUEST_DENIED
+933,"Coimbra, Portugal",40.2033145,-8.4102573,APPROXIMATE,ChIJbdGsShT5Ig0RuaZCe0dkRWM,"locality,political",,"Coimbra, Portugal",1,OK
+934,"Shenzhen, Guangdong, China",22.543096,114.057865,APPROXIMATE,ChIJkVLh0Aj0AzQRyYCStw1V7v0,"locality,political",,ShenZhen,1,OK
+935,,,,,,,,,0,REQUEST_DENIED
+936,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+937,"Reading, UK",51.4542645,-0.9781303,APPROXIMATE,ChIJtz092XggdEgRlHn6zn-f4So,"locality,political",,"Reading, UK",1,OK
+938,,,,,,,,"Boston, MA",0,REQUEST_DENIED
+939,"Oceanside, CA, USA",33.1958696,-117.3794834,APPROXIMATE,ChIJBXdbYF5l3IARh5-POT_LngE,"locality,political",,"Oceanside, CA",1,OK
+940,,,,,,,,,0,REQUEST_DENIED
+941,,,,,,,,Germany,0,REQUEST_DENIED
+942,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+943,"Minnesota, USA",46.729553,-94.6858998,APPROXIMATE,ChIJmwt4YJpbWE0RD6L-EJvJogI,"administrative_area_level_1,political",,Minnesota,1,OK
+944,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+945,,,,,,,,,0,REQUEST_DENIED
+946,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,Shanghai,1,OK
+947,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,Beijing,1,OK
+948,"Columbus, OH, USA",39.9611755,-82.9987942,APPROXIMATE,ChIJcd6QucGJOIgRM7Wxz_hmMuQ,"locality,political",,"Columbus, OH",1,OK
+949,France,46.227638,2.213749,APPROXIMATE,ChIJMVd4MymgVA0R99lHx5Y__Ws,"country,political",,France,1,OK
+950,Slovakia,48.669026,19.699024,APPROXIMATE,ChIJf8Z8rrlgFEcRfTpysWdha80,"country,political",,Slovakia,1,OK
+951,"Warsaw, Poland",52.2296756,21.0122287,APPROXIMATE,ChIJAZ-GmmbMHkcR_NPqiCq-8HI,"locality,political",3,"Warsaw, Poland",1,OK
+952,"Mountain View, CA, USA",37.3860517,-122.0838511,APPROXIMATE,ChIJiQHsW0m3j4ARm69rRkrUF3w,"locality,political",,Mountain View,1,OK
+953,,,,,,,,San Francisco,0,REQUEST_DENIED
+954,,,,,,,,China,0,REQUEST_DENIED
+955,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,"New York, NY",1,OK
+956,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+957,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+958,"Madrid, Spain",40.4167754,-3.7037902,APPROXIMATE,ChIJgTwKgJcpQg0RaSKMYcHeNsQ,"locality,political",,Madrid,1,OK
+959,Italy,41.87194,12.56738,APPROXIMATE,ChIJA9KNRIL-1BIRb15jJFz1LOI,"country,political",,Italy,1,OK
+960,Romania,45.943161,24.96676,APPROXIMATE,ChIJw3aJlSb_sUARlLEEqJJP74Q,"country,political",,Romania,1,OK
+961,,,,,,,,"San Francisco, CA",0,REQUEST_DENIED
+962,,,,,,,,"Yekaterinburg, Russia",0,REQUEST_DENIED
+963,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,"London, UK",1,OK
+964,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,New York,1,OK
+965,,,,,,,,"Haifa, IL",0,REQUEST_DENIED
+966,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+967,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+968,Australia,-25.274398,133.775136,APPROXIMATE,ChIJ38WHZwf9KysRUhNblaFnglM,"country,political",,Australia,1,OK
+969,,,,,,,,NYC,0,REQUEST_DENIED
+970,"Vancouver, BC, Canada",49.2827291,-123.1207375,APPROXIMATE,ChIJs0-pQ_FzhlQRi_OBm-qWkbs,"locality,political",,Vancouver,1,OK
+971,"Washougal, WA, USA",45.5811463,-122.3538327,APPROXIMATE,ChIJX1YfTLi9lVQRxv-OC3EVnW0,"locality,political",,"Washougal, WA",1,OK
+972,,,,,,,,"Palo Alto, CA",0,REQUEST_DENIED
+973,,,,,,,,"New Jersey, USA",0,REQUEST_DENIED
+974,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,Beijing,1,OK
+975,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+976,"Ankara, Turkey",39.9333635,32.8597419,APPROXIMATE,ChIJsS1zINVH0xQRjSuEwLBX3As,"locality,political",,Ankara,1,OK
+977,,,,,,,,"Pleasant Grove, UT",0,REQUEST_DENIED
+978,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,"London, UK",1,OK
+979,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+980,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+981,"Stockholm, Sweden",59.3293235,18.0685808,APPROXIMATE,ChIJywtkGTF2X0YRZnedZ9MnDag,"locality,political",,"Stockholm, Sweden",1,OK
+982,,,,,,,,"Berlin, Germany",0,REQUEST_DENIED
+983,France,46.227638,2.213749,APPROXIMATE,ChIJMVd4MymgVA0R99lHx5Y__Ws,"country,political",,France,1,OK
+984,"387 50 Köping, Sweden",56.8820194,16.7188814,APPROXIMATE,ChIJzcYpt4rfV0YR87VTMB0xX2s,"locality,political",387 50,"Köping / Stockholm, Sweden",1,OK
+985,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+986,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+987,,,,,,,,Los Angeles,0,REQUEST_DENIED
+988,"Santa Clara, CA, USA",37.3541079,-121.9552356,APPROXIMATE,ChIJk8EIXIG3j4ARwL_Ao3ykdeQ,"locality,political",,"Santa Clara, CA",1,OK
+989,"Colorado, USA",39.5500507,-105.7820674,APPROXIMATE,ChIJt1YYm3QUQIcR_6eQSTGDVMc,"administrative_area_level_1,political",,"Colorado, US",1,OK
+990,"Leipzig, Germany",51.3396955,12.3730747,APPROXIMATE,ChIJcywPIBj4pkcRUvW0udKA35M,"locality,political",,"Leipzig, Germany",1,OK
+991,,,,,,,,"Paris, France",0,REQUEST_DENIED
+992,,,,,,,,"Ottawa, ON, Canada",0,REQUEST_DENIED
+993,"Hangzhou, Zhejiang, China",30.274084,120.15507,APPROXIMATE,ChIJmaqaQym2SzQROuhNgoPRv6c,"locality,political",,"Hangzhou, China",1,OK
+994,"Hangzhou, Zhejiang, China",30.274084,120.15507,APPROXIMATE,ChIJmaqaQym2SzQROuhNgoPRv6c,"locality,political",,Hangzhou,1,OK
+995,"Omsk, Omsk Oblast, Russia",54.9884804,73.3242361,APPROXIMATE,ChIJCwkB9uL9qkMRGpumYTjD714,"locality,political",,"Omsk, Russia",1,OK
+996,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+997,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+998,,,,,,,,"New York, NY",0,REQUEST_DENIED
+999,,,,,,,,NC,0,REQUEST_DENIED
+1000,,,,,,,,/milkyway/solar/3,0,ZERO_RESULTS
+1001,"Zürich, Switzerland",47.3768866,8.541694,APPROXIMATE,ChIJGaK-SZcLkEcRA9wf5_GNbuY,"locality,political",,Zürich,1,OK
+1002,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,beijing,1,OK
+1003,"Austin, TX, USA",30.267153,-97.7430608,APPROXIMATE,ChIJLwPMoJm1RIYRetVp1EtGm10,"locality,political",,"Austin, TX",1,OK
+1004,"Sydney NSW, Australia",-33.8688197,151.2092955,APPROXIMATE,ChIJP3Sa8ziYEmsRUKgyFmh9AQM,"colloquial_area,locality,political",,"Sydney, Australia",1,OK
+1005,"Louisville, CO, USA",39.977763,-105.1319296,APPROXIMATE,ChIJuckRZU-La4cRSOLPIDI1v6A,"locality,political",,"Louisville, CO",1,OK
+1006,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1007,"Boulder, CO, USA",40.0149856,-105.2705456,APPROXIMATE,ChIJ06-NJ06Na4cRWIAboHw7Ocg,"locality,political",,"Boulder, CO",1,OK
+1008,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1009,"Stockholm, Sweden",59.3293235,18.0685808,APPROXIMATE,ChIJywtkGTF2X0YRZnedZ9MnDag,"locality,political",,"Stockholm, Sweden",1,OK
+1010,"241 Forsyth St SW, Atlanta, GA 30303, USA",33.748302,-84.397306,ROOFTOP,ChIJH8eeGXgD9YgRpFtJoUBYdXY,"bar,establishment,night_club,point_of_interest",30303,Magic City,1,OK
+1011,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,"Seattle, WA",1,OK
+1012,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,"Tokyo, Japan",1,OK
+1013,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1014,Russia,61.52401,105.318756,APPROXIMATE,ChIJ-yRniZpWPEURE_YRZvj9CRQ,"country,political",,Russia,1,OK
+1015,"Portland International Airport (PDX), 7000 NE Airport Way, Portland, OR 97218, USA",45.5897694,-122.5950942,ROOFTOP,ChIJ0SDcdKqglVQRPVwOOJN22ls,"airport,establishment,point_of_interest",97218,PDX,1,OK
+1016,"Devon, UK",50.7155591,-3.530875,APPROXIMATE,ChIJRwLA2qv4a0gR_Vicygy6xhI,"administrative_area_level_2,political",,"Devon, UK",1,OK
+1017,"Silicon Valley, CA, USA",37.387474,-122.0575434,APPROXIMATE,ChIJOcfP0Iq2j4ARDrXUa7ZWs34,"colloquial_area,political",,"Silicon Valley, California, USA",1,OK
+1018,"Cambridge, UK",52.205337,0.121817,APPROXIMATE,ChIJLQEq84ld2EcRIT1eo-Ego2M,"locality,political",,Cambridge,1,OK
+1019,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,NYC,1,OK
+1020,"131 Linden Ave, Westbury, NY 11590, USA",40.7545563,-73.5847631,ROOFTOP,ChIJyaElX2qHwokRtE0rpljsQG4,"establishment,food,point_of_interest",11590,new yawk,1,OK
+1021,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,London,1,OK
+1022,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1023,Australia,-25.274398,133.775136,APPROXIMATE,ChIJ38WHZwf9KysRUhNblaFnglM,"country,political",,Australia,1,OK
+1024,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1025,"Los Altos, CA, USA",37.3852183,-122.1141298,APPROXIMATE,ChIJz0bVI-Gwj4AR_KZl1l0YBWU,"locality,political",,"Los Altos CA, USA",1,OK
+1026,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,Berlin / Germany,1,OK
+1027,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1028,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,Berlin,1,OK
+1029,,,,,,,,"Amsterdam, Netherlands",0,REQUEST_DENIED
+1030,"Portland, OR, USA",45.5051064,-122.6750261,APPROXIMATE,ChIJJ3SpfQsLlVQRkYXR9ua5Nhw,"locality,political",,"Portland, OR",1,OK
+1031,"Xiamen, Fujian, China",24.479833,118.089425,APPROXIMATE,ChIJJ-u_5XmDFDQRVtBolgpnoCg,"locality,political",,"Xiamen, Fujian, China",1,OK
+1032,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,Tokyo,1,OK
+1033,,,,,,,,,0,REQUEST_DENIED
+1034,,,,,,,,,0,REQUEST_DENIED
+1035,,,,,,,,台灣,0,REQUEST_DENIED
+1036,,,,,,,,,0,REQUEST_DENIED
+1037,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1038,"Manchester, UK",53.4807593,-2.2426305,APPROXIMATE,ChIJ2_UmUkxNekgRqmv-BDgUvtk,"locality,political",,"Manchester, UK",1,OK
+1039,Switzerland,46.818188,8.227512,APPROXIMATE,ChIJYW1Zb-9kjEcRFXvLDxG1Vlw,"country,political",,Switzerland,1,OK
+1040,"Silicon Valley, CA, USA",37.387474,-122.0575434,APPROXIMATE,ChIJOcfP0Iq2j4ARDrXUa7ZWs34,"colloquial_area,political",,"Silicon Valley, California, USA",1,OK
+1041,,,,,,,,"Shanghai, China",0,REQUEST_DENIED
+1042,,,,,,,,,0,REQUEST_DENIED
+1043,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1044,"Mexico City, CDMX, Mexico",19.4326077,-99.133208,APPROXIMATE,ChIJB3UJ2yYAzoURQeheJnYQBlQ,"locality,political",,Mexico City,1,OK
+1045,,,,,,,,China,0,REQUEST_DENIED
+1046,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+1047,"Munich, Germany",48.1351253,11.5819805,APPROXIMATE,ChIJ2V-Mo_l1nkcRfZixfUq4DAE,"locality,political",,"Germany, Munich",1,OK
+1048,"Rio de Janeiro, State of Rio de Janeiro, Brazil",-22.9068467,-43.1728965,APPROXIMATE,ChIJW6AIkVXemwARTtIvZ2xC3FA,"locality,political",,Rio de Janeiro,1,OK
+1049,,,,,,,,,0,REQUEST_DENIED
+1050,,,,,,,,"Beijing, China",0,REQUEST_DENIED
+1051,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+1052,"Osaka, Japan",34.6937249,135.5022535,APPROXIMATE,ChIJ4eIGNFXmAGAR5y9q5G7BW8U,"locality,political",,"Osaka, Japan",1,OK
+1053,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+1054,"Nottingham, UK",52.9547832,-1.1581086,APPROXIMATE,ChIJzXkHOdIyeEgRFdsZGSBjgBA,"locality,political",,Nottingham,1,OK
+1055,"Tehran, Tehran Province, Iran",35.6891975,51.3889736,APPROXIMATE,ChIJ2dzzH0kAjj8RvCRwVnxps_A,"locality,political",,"Tehran, Iran",1,OK
+1056,"48018 Faenza, Province of Ravenna, Italy",44.2898527,11.8774091,APPROXIMATE,ChIJH5Zc1QROKxMR-hgWerfUEK8,"locality,political",48018,Faenza,1,OK
+1057,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1058,"Boulder, CO, USA",40.0149856,-105.2705456,APPROXIMATE,ChIJ06-NJ06Na4cRWIAboHw7Ocg,"locality,political",,"Boulder, CO",1,OK
+1059,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1060,,,,,,,,"Beijing, China",0,REQUEST_DENIED
+1061,,,,,,,,Amsterdam,0,REQUEST_DENIED
+1062,Canada,56.130366,-106.346771,APPROXIMATE,ChIJ2WrMN9MDDUsRpY9Doiq3aJk,"country,political",,Canada,1,OK
+1063,"Oslo, Norway",59.9138688,10.7522454,APPROXIMATE,ChIJOfBn8mFuQUYRmh4j019gkn4,"locality,political",,"Oslo, Norway",1,OK
+1064,,,,,,,,"Pacifica, CA",0,REQUEST_DENIED
+1065,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,Malaysia,1,OK
+1066,"800 N 21st St, Independence, KS 67301, USA",37.2321077,-95.7243335,ROOFTOP,ChIJw2PZcE4ruIcReAzhIAFdBmY,"establishment,point_of_interest",67301,Earth,2,OK
+1067,,,,,,,,"Highland, Michigan, USA",0,REQUEST_DENIED
+1068,,,,,,,,/dev/tcp/127.0.0.1/443,0,ZERO_RESULTS
+1069,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,Berlin,1,OK
+1070,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1071,"Newcastle upon Tyne, UK",54.978252,-1.61778,APPROXIMATE,ChIJzWRvDH6FfUgRkWGncrBS4gs,"locality,political",,"Newcastle upon Tyne, UK",1,OK
+1072,,,,,,,,WuHan,0,REQUEST_DENIED
+1073,Singapore,1.352083,103.819836,APPROXIMATE,ChIJdZOLiiMR2jERxPWrUs9peIg,"country,political",,Singapore,1,OK
+1074,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1075,"Phuket, Thailand",7.9519331,98.3380884,APPROXIMATE,ChIJT1JixOIxUDARIbo9BoWayuk,"administrative_area_level_1,political",,"Phuket, Thailand",1,OK
+1076,Germany,51.165691,10.451526,APPROXIMATE,ChIJa76xwh5ymkcRW-WRjmtd6HU,"country,political",,Germany,1,OK
+1077,"Cambridge, MA, USA",42.3736158,-71.1097335,APPROXIMATE,ChIJX8wwy6Vw44kRh2xoiWSOOsU,"locality,political",,"Cambridge, MA, USA",1,OK
+1078,"Mountain View, CA, USA",37.3860517,-122.0838511,APPROXIMATE,ChIJiQHsW0m3j4ARm69rRkrUF3w,"locality,political",,Mountain View,1,OK
+1079,"Hangzhou, Zhejiang, China",30.274084,120.15507,APPROXIMATE,ChIJmaqaQym2SzQROuhNgoPRv6c,"locality,political",,杭州,1,OK
+1080,"Tempe, AZ, USA",33.4255104,-111.9400054,APPROXIMATE,ChIJ44CqppgIK4cRH7QsOa1K3aI,"locality,political",,"Tempe, AZ",1,OK
+1081,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1082,"San Jose, CA, USA",37.3382082,-121.8863286,APPROXIMATE,ChIJ9T_5iuTKj4ARe3GfygqMnbk,"locality,political",,San Jose,1,OK
+1083,,,,,,,,Bento Gonçalves - RS - Brazil,0,REQUEST_DENIED
+1084,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,Beijing,1,OK
+1085,,,,,,,,"Seattle, WA",0,REQUEST_DENIED
+1086,"Fukuoka, Japan",33.5901838,130.4016888,APPROXIMATE,ChIJKYSE6aHtQTURg4c5NplyCvY,"locality,political",,"Fukuoka, Japan",1,OK
+1087,"Austin, TX, USA",30.267153,-97.7430608,APPROXIMATE,ChIJLwPMoJm1RIYRetVp1EtGm10,"locality,political",,"Austin, TX",1,OK
+1088,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+1089,,,,,,,,cn,0,REQUEST_DENIED
+1090,,,,,,,,"CA, USA",0,REQUEST_DENIED
+1091,"Washington, USA",47.7510741,-120.7401385,APPROXIMATE,ChIJ-bDD5__lhVQRuvNfbGh4QpQ,"administrative_area_level_1,political",,WA,1,OK
+1092,,,,,,,,Russia,0,REQUEST_DENIED
+1093,,,,,,,,"Pune, Maharashtra, India",0,REQUEST_DENIED
+1094,,,,,,,,,0,REQUEST_DENIED
+1095,,,,,,,,Australia,0,REQUEST_DENIED
+1096,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1097,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+1098,United Kingdom,55.378051,-3.435973,APPROXIMATE,ChIJqZHHQhE7WgIReiWIMkOg-MQ,"country,political",,UK,1,OK
+1099,Germany,51.165691,10.451526,APPROXIMATE,ChIJa76xwh5ymkcRW-WRjmtd6HU,"country,political",,Germany,1,OK
+1100,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1101,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1102,,,,,,,,Berlin,0,REQUEST_DENIED
+1103,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1104,,,,,,,,Berkeley ✈ Minneapolis,0,REQUEST_DENIED
+1105,"Belgrade, Serbia",44.786568,20.4489216,APPROXIMATE,ChIJvT-116N6WkcR5H4X8lxkuB0,"locality,political",,"Belgrade, Serbia",1,OK
+1106,"Boulder, CO, USA",40.0149856,-105.2705456,APPROXIMATE,ChIJ06-NJ06Na4cRWIAboHw7Ocg,"locality,political",,"Boulder, CO",1,OK
+1107,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,"Seattle , WA",1,OK
+1108,"San Diego, CA, USA",32.715738,-117.1610838,APPROXIMATE,ChIJSx6SrQ9T2YARed8V_f0hOg0,"locality,political",,"San Diego, CA",1,OK
+1109,"Moscow, Russia",55.755826,37.6172999,APPROXIMATE,ChIJybDUc_xKtUYRTM9XV8zWRD0,"locality,political",,"Russia, Moscow",1,OK
+1110,"Santa Clara, CA, USA",37.3541079,-121.9552356,APPROXIMATE,ChIJk8EIXIG3j4ARwL_Ao3ykdeQ,"locality,political",,"Santa Clara, CA",1,OK
+1111,"Bremen, Germany",53.0792962,8.8016936,APPROXIMATE,ChIJNePuDBAosUcRUd83-VyI6MI,"locality,political",,"Bremen, Germany",1,OK
+1112,,,,,,,,"Fremont, CA",0,REQUEST_DENIED
+1113,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,"new york, ny",1,OK
+1114,Germany,51.165691,10.451526,APPROXIMATE,ChIJa76xwh5ymkcRW-WRjmtd6HU,"country,political",,Germany,1,OK
+1115,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1116,,,,,,,,"Atlanta, GA",0,REQUEST_DENIED
+1117,"Milwaukee, WI, USA",43.0389025,-87.9064736,APPROXIMATE,ChIJ50eLV9cCBYgRhHtBtSIZX0Q,"locality,political",,Milwaukee,1,OK
+1118,,,,,,,,,0,REQUEST_DENIED
+1119,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1120,"Auckland, New Zealand",-36.8484597,174.7633315,APPROXIMATE,ChIJ--acWvtHDW0RF5miQ2HvAAU,"locality,political",,"Auckland, New Zealand",1,OK
+1121,"San Francisco Bay Area, CA, USA",37.8271784,-122.2913078,APPROXIMATE,ChIJtdeIpqODhYARqR9GV4QbiYw,"colloquial_area,political",,"San Francisco Bay Area, CA, USA",2,OK
+1122,,,,,,,,Serbia,0,REQUEST_DENIED
+1123,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1124,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+1125,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,北京,1,OK
+1126,,,,,,,,Greece,0,REQUEST_DENIED
+1127,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1128,China,35.86166,104.195397,APPROXIMATE,ChIJwULG5WSOUDERbzafNHyqHZU,"country,political",,China,1,OK
+1129,"Sunnyvale, CA, USA",37.36883,-122.0363496,APPROXIMATE,ChIJO13QqUW2j4ARosN83Sb7jXY,"locality,political",,"Sunnyvale, CA, USA",1,OK
+1130,"Boulder, CO, USA",40.0149856,-105.2705456,APPROXIMATE,ChIJ06-NJ06Na4cRWIAboHw7Ocg,"locality,political",,"Boulder, CO",1,OK
+1131,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1132,"Austin, TX, USA",30.267153,-97.7430608,APPROXIMATE,ChIJLwPMoJm1RIYRetVp1EtGm10,"locality,political",,"Austin, TX",1,OK
+1133,"Athens, Greece",37.9838096,23.7275388,APPROXIMATE,ChIJ8UNwBh-9oRQR3Y1mdkU1Nic,"locality,political",,Athens,1,OK
+1134,China,35.86166,104.195397,APPROXIMATE,ChIJwULG5WSOUDERbzafNHyqHZU,"country,political",,China,1,OK
+1135,,,,,,,,,0,REQUEST_DENIED
+1136,,,,,,,,,0,REQUEST_DENIED
+1137,"Palo Alto, CA, USA",37.4418834,-122.1430195,APPROXIMATE,ChIJORy6nXuwj4ARz3b1NVL1Hw4,"locality,political",,"Palo Alto, CA",1,OK
+1138,"22 Jiuxianqiao Rd, Chaoyang Qu, Beijing Shi, China",39.968179,116.48993,ROOFTOP,ChIJpUToVr-r8TUROZvquAA9ALY,"bar,establishment,point_of_interest",,"Xian,Beijing",1,OK
+1139,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1140,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,Tokyo,1,OK
+1141,"Beijing, China",39.9041999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",," Beijing,China",1,OK
+1142,"Antwerp, Belgium",51.2194475,4.4024643,APPROXIMATE,ChIJfYjDv472w0cRuIqogoRErz4,"locality,political",,"Antwerp, Belgium",1,OK
+1143,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1144,Netherlands,52.132633,5.291266,APPROXIMATE,ChIJu-SH28MJxkcRnwq9_851obM,"country,political",,Netherlands,1,OK
+1145,"Vienna, Austria",48.2081743,16.3738189,APPROXIMATE,ChIJn8o2UZ4HbUcRRluiUYrlwv0,"locality,political",,"Vienna, Austria",1,OK
+1146,Austria,47.516231,14.550072,APPROXIMATE,ChIJfyqdJZsHbUcRr8Hk3XvUEhA,"country,political",,Austria,1,OK
+1147,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+1148,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1149,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,"Seattle, WA",1,OK
+1150,"Minneapolis, MN, USA",44.977753,-93.2650108,APPROXIMATE,ChIJvbt3k5Azs1IRB-56L4TJn5M,"locality,political",,Minneapolis,1,OK
+1151,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1152,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1153,,,,,,,,"Ankara, TR",0,REQUEST_DENIED
+1154,,,,,,,,,0,REQUEST_DENIED
+1155,,,,,,,,,0,REQUEST_DENIED
+1156,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+1157,,,,,,,,,0,REQUEST_DENIED
+1158,"Virginia, USA",37.4315734,-78.6568942,APPROXIMATE,ChIJzbK8vXDWTIgRlaZGt0lBTsA,"administrative_area_level_1,political",,"Virginia, U.S.A.",1,OK
+1159,"Paris, France",48.856614,2.3522219,APPROXIMATE,ChIJD7fiBh9u5kcRYJSMaMOCCwQ,"locality,political",,"Paris, France",1,OK
+1160,,,,,,,,"San Francisco, CA",0,REQUEST_DENIED
+1161,,,,,,,,,0,REQUEST_DENIED
+1162,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,"Berlin, Germany",1,OK
+1163,"Munich, Germany",48.1351253,11.5819805,APPROXIMATE,ChIJ2V-Mo_l1nkcRfZixfUq4DAE,"locality,political",,"Munich, Germany",1,OK
+1164,"Shenzhen, Guangdong, China",22.543096,114.057865,APPROXIMATE,ChIJkVLh0Aj0AzQRyYCStw1V7v0,"locality,political",,"Shenzhen, China",1,OK
+1165,,,,,,,,"Portland, OR",0,REQUEST_DENIED
+1166,"Victoria, BC, Canada",48.4284207,-123.3656444,APPROXIMATE,ChIJcWGw3Ytzj1QR7Ui7HnTz6Dg,"locality,political",,"Victoria, BC, Canada",1,OK
+1167,"Timișoara, Romania",45.7488716,21.2086793,APPROXIMATE,ChIJp7UPy31nRUcRSWeTc2Svf1M,"locality,political",,"Timisoara, Romania",1,OK
+1168,"Palo Alto, CA, USA",37.4418834,-122.1430195,APPROXIMATE,ChIJORy6nXuwj4ARz3b1NVL1Hw4,"locality,political",,"Palo Alto, CA",1,OK
+1169,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1170,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,"London, UK",1,OK
+1171,,,,,,,,Seattle,0,REQUEST_DENIED
+1172,"Paris, France",48.856614,2.3522219,APPROXIMATE,ChIJD7fiBh9u5kcRYJSMaMOCCwQ,"locality,political",,Paris,1,OK
+1173,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1174,"Rotselaar, Belgium",50.9536709,4.7183791,APPROXIMATE,ChIJqc34rWVewUcRrq3tB2_f5Jg,"locality,political",,"Rotselaar, Belgium",1,OK
+1175,,,,,,,,"London, UK",0,REQUEST_DENIED
+1176,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1177,"Wuhan, Hubei, China",30.592849,114.305539,APPROXIMATE,ChIJb_KF3fiuLjQRECJYbKzJwjk,"locality,political",,"中国, 武汉",1,OK
+1178,"Indianapolis, IN, USA",39.768403,-86.158068,APPROXIMATE,ChIJA2p5p_9Qa4gRfOq5QPadjtY,"locality,political",,"Indianapolis, IN",1,OK
+1179,"84 Washington St, Hoboken, NJ 07030, USA",40.7368496,-74.0314527,ROOFTOP,ChIJSdyrtlhXwokR7M6-W8qCez0,"bar,establishment,point_of_interest",7030,none,1,OK
+1180,,,,,,,,Taipei,0,REQUEST_DENIED
+1181,"Tempe, AZ, USA",33.4255104,-111.9400054,APPROXIMATE,ChIJ44CqppgIK4cRH7QsOa1K3aI,"locality,political",,"Tempe, AZ",1,OK
+1182,"Texas, USA",31.9685988,-99.9018131,APPROXIMATE,ChIJSTKCCzZwQIYRPN4IGI8c6xY,"administrative_area_level_1,political",,"TX, USA",1,OK
+1183,,,,,,,,Canada,0,REQUEST_DENIED
+1184,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,"Shanghai, China",1,OK
+1185,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+1186,,,,,,,,Berlin,0,REQUEST_DENIED
+1187,Korea,37.6639976,127.9784585,APPROXIMATE,ChIJOxw9ixBjYjURlzlK_FFhQYY,"colloquial_area,political",,Korea,1,OK
+1188,,,,,,,,,0,REQUEST_DENIED
+1189,,,,,,,,"Jakarta, Indonesia",0,REQUEST_DENIED
+1190,,,,,,,,"Brooklyn, NY",0,REQUEST_DENIED
+1191,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1192,"Lviv, Lviv Oblast, Ukraine, 79000",49.839683,24.029717,APPROXIMATE,ChIJV5oQCXzdOkcR4ngjARfFI0I,"locality,political",79000,"Ukraine, Lviv",1,OK
+1193,"Hangzhou, Zhejiang, China",30.274084,120.15507,APPROXIMATE,ChIJmaqaQym2SzQROuhNgoPRv6c,"locality,political",,hangzhou,1,OK
+1194,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,Tokyo,1,OK
+1195,"Amsterdam, Netherlands",52.3666969,4.8945398,APPROXIMATE,ChIJVXealLU_xkcRja_At0z9AGY,"locality,political",,Amsterdam,1,OK
+1196,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1197,"Boulder, CO, USA",40.0149856,-105.2705456,APPROXIMATE,ChIJ06-NJ06Na4cRWIAboHw7Ocg,"locality,political",,"Boulder, CO",1,OK
+1198,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+1199,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+1200,,,,,,,,"Sydney, Australia",0,REQUEST_DENIED
+1201,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1202,"Strasbourg, France",48.5734053,7.7521113,APPROXIMATE,ChIJwbIYXknIlkcRHyTnGDFIGpc,"locality,political",,"Strasbourg, France",1,OK
+1203,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+1204,"Massachusetts, USA",42.4072107,-71.3824374,APPROXIMATE,ChIJ_b9z6W1l44kRHA2DVTbQxkU,"administrative_area_level_1,political",,"Massachusetts, USA",1,OK
+1205,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1206,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,London,1,OK
+1207,"Livermore, CA, USA",37.6818688,-121.7684732,APPROXIMATE,ChIJcSBaOIblj4ARcdhryzEi05g,"locality,political",,"Livermore, CA",1,OK
+1208,,,,,,,,"fuzhou,fujian,China",0,REQUEST_DENIED
+1209,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1210,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+1211,"Stockholm, Sweden",59.3293235,18.0685808,APPROXIMATE,ChIJywtkGTF2X0YRZnedZ9MnDag,"locality,political",,Stockholm,1,OK
+1212,,,,,,,,"Toronto, Canada",0,REQUEST_DENIED
+1213,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1214,,,,,,,,"Chengdu, China",0,REQUEST_DENIED
+1215,"Säbener Str. 51-57, 81547 München, Germany",48.1008068,11.5723801,ROOFTOP,ChIJC2ZvJRvfnUcR5mxasun2VIM,"clothing_store,establishment,point_of_interest,store",81547,"München, Bayern, DE",1,OK
+1216,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1217,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,Shanghai China,1,OK
+1218,"Auckland, New Zealand",-36.8484597,174.7633315,APPROXIMATE,ChIJ--acWvtHDW0RF5miQ2HvAAU,"locality,political",,"Auckland, New Zealand",1,OK
+1219,"Virginia Beach, VA, USA",36.8529263,-75.977985,APPROXIMATE,ChIJpycV_OjBuokRcwEuo4AQFgQ,"locality,political",,"Virginia Beach, VA",1,OK
+1220,,,,,,,,Oakland / SF,0,REQUEST_DENIED
+1221,,,,,,,,"New York, NY",0,REQUEST_DENIED
+1222,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1223,,,,,,,,,0,REQUEST_DENIED
+1224,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1225,"Munich, Germany",48.1351253,11.5819805,APPROXIMATE,ChIJ2V-Mo_l1nkcRfZixfUq4DAE,"locality,political",,Munich,1,OK
+1226,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+1227,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,"Shanghai, China",1,OK
+1228,"Copenhagen, Denmark",55.6760968,12.5683372,APPROXIMATE,ChIJIz2AXDxTUkYRuGeU5t1-3QQ,"locality,political",,Copenhagen,1,OK
+1229,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1230,,,,,,,,,0,REQUEST_DENIED
+1231,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1232,,,,,,,,"Budapest, Hungary",0,REQUEST_DENIED
+1233,"Chengdu, Sichuan, China",30.572815,104.066801,APPROXIMATE,ChIJIXdEACPF7zYRAg4kLs5Shrk,"locality,political",,"Chengdu, China",1,OK
+1234,"Toronto, ON, Canada",43.653226,-79.3831843,APPROXIMATE,ChIJpTvG15DL1IkRd8S0KlBVNTI,"locality,political",,"Toronto, Canada",1,OK
+1235,,,,,,,,Belarus,0,REQUEST_DENIED
+1236,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+1237,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1238,,,,,,,,Indianapolis,0,REQUEST_DENIED
+1239,,,,,,,,,0,REQUEST_DENIED
+1240,"Dhaka, Bangladesh",23.810332,90.4125181,APPROXIMATE,ChIJgWsCh7C4VTcRwgRZ3btjpY8,"locality,political",,"Dhaka, Bangladesh",1,OK
+1241,"Boulder, CO, USA",40.0149856,-105.2705456,APPROXIMATE,ChIJ06-NJ06Na4cRWIAboHw7Ocg,"locality,political",,"Boulder, CO",1,OK
+1242,"Novosibirsk, Novosibirsk Oblast, Russia",55.0083526,82.9357327,APPROXIMATE,ChIJl03MkOHl30IRhenT4XMGOps,"locality,political",,"Russia, Novosibirsk",1,OK
+1243,"The Queen's Walk, London SE1 2JH, UK",51.506579,-0.081389,ROOFTOP,ChIJ53DRz08DdkgRrg8CSNPPXws,"establishment,museum,point_of_interest,tourist_attraction",SE1 2JH,London/Belfast,1,OK
+1244,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+1245,,,,,,,,"Malta, Europe",0,REQUEST_DENIED
+1246,"Bucharest, Romania",44.4267674,26.1025384,APPROXIMATE,ChIJT608vzr5sUARKKacfOMyBqw,"locality,political",,"Bucharest, Romania",1,OK
+1247,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,Seattle,1,OK
+1248,"Ann Arbor, MI, USA",42.2808256,-83.7430378,APPROXIMATE,ChIJMx9D1A2wPIgR4rXIhkb5Cds,"locality,political",,"Ann Arbor, MI",1,OK
+1249,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1250,,,,,,,,"China, BeiJing",0,REQUEST_DENIED
+1251,"London, UK",51.5073509,-0.1277583,APPROXIMATE,ChIJdd4hrwug2EcRmSrV3Vo6llI,"locality,political",,"London, UK",1,OK
+1252,"Austin, TX, USA",30.267153,-97.7430608,APPROXIMATE,ChIJLwPMoJm1RIYRetVp1EtGm10,"locality,political",,"Austin, TX",1,OK
+1253,"North Carolina, USA",35.7595731,-79.0192997,APPROXIMATE,ChIJgRo4_MQfVIgRGa4i6fUwP60,"administrative_area_level_1,political",,"NC, USA",1,OK
+1254,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,"Shanghai, China",1,OK
+1255,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1256,"Hangzhou, Zhejiang, China",30.274084,120.15507,APPROXIMATE,ChIJmaqaQym2SzQROuhNgoPRv6c,"locality,political",,"Hangzhou, China",1,OK
+1257,"Amsterdam, Netherlands",52.3666969,4.8945398,APPROXIMATE,ChIJVXealLU_xkcRja_At0z9AGY,"locality,political",,"Amsterdam, the Netherlands",1,OK
+1258,"Santa Monica, CA, USA",34.0194543,-118.4911912,APPROXIMATE,ChIJGQCRws6kwoARq_Uj_7UKF7Q,"locality,political",,Santa Monica,1,OK
+1259,"Gothenburg, Sweden",57.70887,11.97456,APPROXIMATE,ChIJPwdslmeOT0YRQHwOKXiQAQQ,"locality,political",,"Göteborg, Sweden",1,OK
+1260,Netherlands,52.132633,5.291266,APPROXIMATE,ChIJu-SH28MJxkcRnwq9_851obM,"country,political",,Netherlands,1,OK
+1261,"Chicago, IL, USA",41.8781136,-87.6297982,APPROXIMATE,ChIJ7cv00DwsDogRAMDACa2m4K8,"locality,political",,"Chicago, IL",1,OK
+1262,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1263,"Tokyo, Japan",35.6761919,139.6503106,APPROXIMATE,ChIJ51cu8IcbXWARiRtXIothAS4,"administrative_area_level_1,political",,"Tokyo,Japan",1,OK
+1264,,,,,,,,"Denver, CO",0,REQUEST_DENIED
+1265,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,"Seattle, WA",1,OK
+1266,,,,,,,,Liège (BE),0,REQUEST_DENIED
+1267,,,,,,,,Montenegro,0,REQUEST_DENIED
+1268,,,,,,,,"San Francisco, CA",0,REQUEST_DENIED
+1269,,,,,,,,"Fairfax, VA",0,REQUEST_DENIED
+1270,"Bengaluru, Karnataka, India",12.9715987,77.5945627,APPROXIMATE,ChIJbU60yXAWrjsR4E9-UejD3_g,"locality,political",,Bangalore,1,OK
+1271,"Orlando, FL, USA",28.5383355,-81.3792365,APPROXIMATE,ChIJd7zN_thz54gRnr-lPAaywwo,"locality,political",,"Orlando, FL",1,OK
+1272,"California, USA",36.778261,-119.4179324,APPROXIMATE,ChIJPV4oX_65j4ARVW8IJ6IJUYs,"administrative_area_level_1,political",,"California, USA",1,OK
+1273,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1274,"Moscow, Russia",55.755826,37.6172999,APPROXIMATE,ChIJybDUc_xKtUYRTM9XV8zWRD0,"locality,political",,"Moscow, Russia",1,OK
+1275,"Pune, Maharashtra, India",18.5204303,73.8567437,APPROXIMATE,ChIJARFGZy6_wjsRQ-Oenb9DjYI,"locality,political",,"Pune, India",1,OK
+1276,,,,,,,,Lille,0,REQUEST_DENIED
+1277,"Denver, CO, USA",39.7392358,-104.990251,APPROXIMATE,ChIJzxcfI6qAa4cR1jaKJ_j0jhE,"locality,political",,"Denver, CO",1,OK
+1278,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,ROOFTOP,ChIJz4_nc1oE9YgRxihstPqFSoM,"bar,establishment,food,point_of_interest,restaurant",30309,,1,OK
+1279,"Dallas, TX, USA",32.7766642,-96.7969879,APPROXIMATE,ChIJS5dFe_cZTIYRj2dH9qSb7Lk,"locality,political",,"Dallas, TX",1,OK
+1280,,,,,,,,New York,0,REQUEST_DENIED
+1281,"Raleigh, NC, USA",35.7795897,-78.6381787,APPROXIMATE,ChIJ9-BRny9arIkRrfARilK2kGc,"locality,political",,"Raleigh, NC",1,OK
+1282,"Osaka, Japan",34.6937249,135.5022535,APPROXIMATE,ChIJ4eIGNFXmAGAR5y9q5G7BW8U,"locality,political",,"Osaka, Japan",1,OK
+1283,"Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.139003,101.686855,APPROXIMATE,ChIJ5-rvAcdJzDERfSgcL1uO2fQ,"locality,political",,"Malaysia, Kuala Lumpur",1,OK
+1284,,,,,,,,NYC,0,REQUEST_DENIED
+1285,"Berlin, Germany",52.5200066,13.404954,APPROXIMATE,ChIJAVkDPzdOqEcRcDteW0YgIQQ,"locality,political",,Berlin,1,OK
+1286,,,,,,,,Earth,0,REQUEST_DENIED
+1287,,,,,,,,"Minneapolis, MN, USA",0,REQUEST_DENIED
+1288,"Baracska, 2471 Hungary",47.2824737,18.7598901,APPROXIMATE,ChIJyzoKXpP9QUcRsEEeDCnEAAQ,"locality,political",2471,"HU, Baracska",1,OK
+1289,"Vilnius, Lithuania",54.6871555,25.2796514,APPROXIMATE,ChIJ9QhkXPuT3UYRQNzpcIzRAAQ,"locality,political",,"Vilnius, Lithuania",1,OK
+1290,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,"San Francisco, CA",1,OK
+1291,"Tel Aviv-Yafo, Israel",32.0852999,34.7817676,APPROXIMATE,ChIJH3w7GaZMHRURkD-WwKJy-8E,"locality,political",,"Tel Aviv, Israel",1,OK
